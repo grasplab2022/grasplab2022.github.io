@@ -69,7 +69,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 
 # Publications 
-<p style='text-align: justify;'>
+
   
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -83,7 +83,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 </div>
 </div>
 
-</font>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Robotics (T-RO Long paper) 2018</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
