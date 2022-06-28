@@ -14,14 +14,11 @@ main:
   - title: "Publications"
     url: "/#publications "
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Grasp Lab"
+    url: "/#grasp-lab"
 
   - title: "Invited Talks"
     url: "/#-invited-talks"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Opportunities"
+    url: "/#opportunities"
