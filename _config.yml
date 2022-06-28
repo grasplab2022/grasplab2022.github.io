@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "HUIXU DONG/Homepage"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Zhejiang University. "
 repository               : "grasplab2022/grasplab2022.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Huixu Dong"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
