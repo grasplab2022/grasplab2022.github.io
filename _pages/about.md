@@ -33,7 +33,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 # News 
 
 - *<font face="Times New Roman" size="3"> 2022.Jun 15 </font>*:  &nbsp; <font face="Times New Roman" size="3"> I have opened multiple fully-funded PostDoc, research associate (master's degree) and research officer (Bachelor's degree) positions in robotic perception and grasp. </font>
-  欢迎具有机械电子、计算机、控制、电子、力学、材料、生物、化学等背景的博士后，博士，硕士、本科加入机器人感知与抓取实验室, 感兴趣的同学请发邮件。
+  欢迎具有机械电子、计算机、控制、电子、力学、材料、生物、化学等背景的博士后，博士，硕士、本科生加入机器人感知与抓取实验室, 感兴趣的同学请发邮件。
 
 
  - *2022.Jun 10*: &nbsp; A paper on the construction of a compliant gripper was accepted by IEEE RA-Letter. 
@@ -294,9 +294,12 @@ T Li, X Wu, **H Dong**, Haoyong Yu.
 
 - *Target* &nbsp;
 
+<font face="Times New Roman" size="3"> <p style='text-align: justify;'>
   It is well-known that a robotic grasping system significantly involves perception, modeling, gripper design and control, motion planning and materials, even emerging technologies such as VR and metaverse. Our research locates in those disciplines of robotic vision, mechatronics and motion planning. Our goal is to develop cutting-edge technologies of robotic perception and grasp to achieve domestic and industrial applications. To this end, we focus on (1) developing grippers with new concepts, new design, new control, new actuator, and new material; (2) studying real-time shape-based and 3D perceptions via mathematical modeling and machine learning; (3) investigating safe, interactive motion planning and grasping synthesis; (4) exploring supervision learning for robots commanding skills. Currently, we are working on robotic tidying, packaging, assembling, picking, placing, and re-grasping projects. 
+</p></font>
 
 - *Supervising statement* &nbsp;
 
+<font face="Times New Roman" size="3"> <p style='text-align: justify;'>
   The Grasp Lab is committed to fostering creativity, opening, inclusion, and collaboration among our members with diverse backgrounds. We strive to offer supportive environments for students to implement any novel ideas that break research borders, regardless of specific-purpose applications. Our lab highly encourages students to cooperate with other groups since robotics research is an interdisciplinary and collaborative endeavor. For each incoming member, we advise a suitable research direction and also, have a weekly meeting with each member. We set up a weekly meeting to inspire brainstorming, discuss literature studies and research ideas. Generally, we will allow students to do visiting students overseas such as RRC at NTU in Singapore, RI at CMU in United States, and some universities in Norway, Australia, England, Japan, and Finland.
-
+</p></font>
