@@ -41,12 +41,13 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 <p style='text-align: justify;'> - *2022.Jun 10*: &nbsp; A paper on the construction of a compliant gripper was accepted by IEEE RA-Letter. </p>
 <p style='text-align: justify;'> - *2022.Jun 09*: &nbsp; A paper on nonredundant parallel manipulators was accepted by MMT. </p>
-<p style='text-align: justify;'> - *2022.Jun*: &nbsp;  After a 10-year wonderful and unforgettable time in Singapore and United States, I joined Zhejiang University ME to start my academic faculty journey.</p> 
+
+<font face="Times New Roman" ><p style='text-align: justify;'> - *2022.Jun*: &nbsp;  After a 10-year wonderful and unforgettable time in Singapore and United States, I joined Zhejiang University ME to start my academic faculty journey.</p> </font>
 
 
 
 
-# 📝 Publications 
+# Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
