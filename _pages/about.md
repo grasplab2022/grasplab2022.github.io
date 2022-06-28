@@ -24,13 +24,13 @@ From 2022, Huixu Dong is a “New Hundred-Talent Program” faculty (浙江大�
 </p></font>
 
 
-# Research Interests 
+# <font face="Times New Roman" > Research Interests </font>
 <font face="Times New Roman" size="3"> <p style='text-align: justify;'>
 I am mainly robotic perception and manipulation, including general-purpose grasp, dynamic grasping, dexterous manipulation, and in-hand manipulation. I am interested in studying a challenging problem of efficiently understanding scenarios, reasoning about the grasping trajectory, and carrying out a reliable physical-environment grasping action for constructing an optimized system to perform robust manipulations for domestic, supermarket, warehouse and industrial setting applications. I am motivated by the above problem and working on offering highly resultful solutions through mathematical modeling, gripper design and control, visual perception as well as self-supervision robotic learning. 
 </p></font>
 
 
-# News
+# <font face="Times New Roman" >  News </font>
 
 <p style='text-align: justify;'>
 
@@ -46,7 +46,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 
 
-# Publications 
+# <font face="Times New Roman" >  Publications </font>
 <p style='text-align: justify;'>
   
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
