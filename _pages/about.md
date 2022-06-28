@@ -265,31 +265,14 @@ T Li, X Wu, **H Dong**, Haoyong Yu.
 
 
 
+
+
+
+
 # Grasp Lab
 
 - *Current members*&nbsp;
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IEEE International Conference on Robotics and Automation (ICRA 2022) </div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Learning-based Ellipse Detection for RoboticGrasps of Cylinders and Ellipsoids]
-**H. Dong**, J Zhou, C Qiu, DK Prasad, I-Ming Chen
- 
-- In this work, we propose a novel approach to generating ground truth for training the model based on domain randomization. Using synthetic data generated in this
-manner, we build an end-to-end deep neural network to detect cylinderical objects for robotic manipulations.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IEEE International Conference on Robotics and Automation (ICRA 2022) </div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Learning-based Ellipse Detection for RoboticGrasps of Cylinders and Ellipsoids]
-**H. Dong**, J Zhou, C Qiu, DK Prasad, I-Ming Chen
- 
-- In this work, we propose a novel approach to generating ground truth for training the model based on domain randomization. Using synthetic data generated in this
-manner, we build an end-to-end deep neural network to detect cylinderical objects for robotic manipulations.
-</div>
-</div>
 
 
 
