@@ -11,7 +11,7 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "<font face="Times New Roman" > Publications</font>"
+  - title: "Publications"
     url: "/#publications "
 
   - title: "Honors and Awards"
