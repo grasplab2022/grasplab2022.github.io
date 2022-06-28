@@ -263,3 +263,53 @@ T Li, X Wu, **H Dong**, Haoyong Yu.
 </div>
 </div>
 
+
+
+# Grasp Lab
+
+- *Current members*&nbsp;
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IEEE International Conference on Robotics and Automation (ICRA 2022) </div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning-based Ellipse Detection for RoboticGrasps of Cylinders and Ellipsoids]
+**H. Dong**, J Zhou, C Qiu, DK Prasad, I-Ming Chen
+ 
+- In this work, we propose a novel approach to generating ground truth for training the model based on domain randomization. Using synthetic data generated in this
+manner, we build an end-to-end deep neural network to detect cylinderical objects for robotic manipulations.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IEEE International Conference on Robotics and Automation (ICRA 2022) </div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning-based Ellipse Detection for RoboticGrasps of Cylinders and Ellipsoids]
+**H. Dong**, J Zhou, C Qiu, DK Prasad, I-Ming Chen
+ 
+- In this work, we propose a novel approach to generating ground truth for training the model based on domain randomization. Using synthetic data generated in this
+manner, we build an end-to-end deep neural network to detect cylinderical objects for robotic manipulations.
+</div>
+</div>
+
+
+
+
+- *Joining My Group* &nbsp;
+
+  For perspective master/PhD students, please apply to the Master/Ph.D. program in ME of ZJU and mention my name in application letters if you are interested in joining my group. 
+
+  For current master's and undergraduate students with mechanical engineering, computer science, control engineering, electronics, mathematics mechanics, material and biology, and chemistry backgrounds at ZJU, please feel free to contact me by email (I am in general going to reply to emails on Friday or Saturday) if you are interested in joining my group.
+
+  Also, I have opened multiple fully-funded PostDoc, research associate (master's degree) and research officer (Bachelor's degree) positions in robotic perception and grasp.
+  
+  欢迎具有机械电子、计算机、控制、电子、力学、材料、生物、化学等背景的博士后，博士，硕士、本科加入机器人感知与抓取实验室, 感兴趣的同学请发邮件。
+
+
+- *Target*&nbsp;
+
+  It is well-known that a robotic grasping system significantly involves perception, modeling, gripper design and control, motion planning and materials, even emerging technologies such as VR and metaverse. Our research locates in those disciplines of robotic vision, mechatronics and motion planning. Our goal is to develop cutting-edge technologies of robotic perception and grasp to achieve domestic and industrial applications. To this end, we focus on (1) developing grippers with new concepts, new design, new control, new actuator, and new material; (2) studying real-time shape-based and 3D perceptions via mathematical modeling and machine learning; (3) investigating safe, interactive motion planning and grasping synthesis; (4) exploring supervision learning for robots commanding skills. Currently, we are working on robotic tidying, packaging, assembling, picking, placing, and re-grasping projects. 
+
+- *Supervising statement*&nbsp;
+
+  The Grasp Lab is committed to fostering creativity, opening, inclusion, and collaboration among our members with diverse backgrounds. We strive to offer supportive environments for students to implement any novel ideas that break research borders, regardless of specific-purpose applications. Our lab highly encourages students to cooperate with other groups since robotics research is an interdisciplinary and collaborative endeavor. For each incoming member, we advise a suitable research direction and also, have a weekly meeting with each member. We set up a weekly meeting to inspire brainstorming, discuss literature studies and research ideas. Generally, we will allow students to do visiting students overseas such as RRC at NTU in Singapore, RI at CMU in United States, and some universities in Norway, Australia, England, Japan, and Finland.
+
