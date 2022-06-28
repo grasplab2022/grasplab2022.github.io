@@ -4,6 +4,10 @@ main:
     url: "/#-about-me"
 
 
+  - title: "Research Interests"
+    url: "/#-research-interests"
+
+
   - title: "News"
     url: "/#-news"
 
