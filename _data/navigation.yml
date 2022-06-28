@@ -12,7 +12,7 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#publications"
+    url: "/#<font face="Times New Roman" > publications </font>"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
