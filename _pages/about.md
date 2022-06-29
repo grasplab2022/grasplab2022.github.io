@@ -291,7 +291,7 @@ T Li, X Wu, **H Dong**, Haoyong Yu.
 
   - Also, I have opened multiple fully-funded PostDoc, research associate (master's degree) and research officer (Bachelor's degree) positions in robotic perception and grasp.
   
-  欢迎具有机械电子、计算机、控制、电子、力学、材料、生物、化学等背景的博士后，博士，硕士、本科加入机器人感知与抓取实验室, 感兴趣的同学请发邮件。
+  欢迎具有机械电子、计算机、控制、电子、力学、材料、生物、化学等背景的博士后，博士，硕士、本科生加入机器人感知与抓取实验室, 感兴趣的同学请发邮件。
 </p></font>
 
 
