@@ -47,23 +47,9 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 # Publications 
 
+## *Journal papers* &nbsp;
   
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Robotics (T-RO Long paper) 2018</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-RO Long paper</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Real-time Robotic Manipulation of Cylindrical Objects in Dynamic Scenarios through Elliptic Shape Primitives](https://ieeexplore.ieee.org/document/8489921)
@@ -75,7 +61,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics and Computer-Integrated Manufacturing 2017</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RCIM</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Geometric design optimization of an under-actuated tendon-driven robotic gripper](https://www.sciencedirect.com/science/article/abs/pii/S0736584517301643)
@@ -87,7 +73,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Robotics and Automation Letters 2018</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fast Ellipse Detection for Robotic Manipulation of Cylindrical Objects](https://ieeexplore.ieee.org/abstract/document/8359377)
@@ -100,7 +86,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mechanism and Machine Theory 2018</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMT</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Grasp analysis and optimal design of robotic fingertip for two tendon-driven fingers](https://www.sciencedirect.com/science/article/abs/pii/S0094114X18312412)
@@ -112,7 +98,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition 2017</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Accurate detection of ellipses with false detection control at video rates using a gradient analysis](https://www.sciencedirect.com/science/article/abs/pii/S0031320318301134)
@@ -123,7 +109,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mechanism and Machine Theory 2019</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMT</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enabling grasp action: Generalized quality evaluation of grasp stability via contact stiffness from contact mechanics insight](https://www.sciencedirect.com/science/article/abs/pii/S0094114X18318639)
@@ -134,7 +120,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Automation Science and Engineering 2020</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ASE</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enabling Robotic Grasp: Object Pose Estimation via Pruned Hough Forest with Combined Split Schemes](https://ieeexplore.ieee.org/abstract/document/9199305)
@@ -145,7 +131,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/ASME Transactions on Mechatronics 2020</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-Mech</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Real-time Avoidance Strategy of Dynamic Obstacles via Detection and Tracking with 2D Lidar for Mobile Robot](https://ieeexplore.ieee.org/abstract/document/9246251)
@@ -159,7 +145,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Intelligent Transportation Systems 2019</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Are object detection assessment criteria ready for maritime computer vision?](https://ieeexplore.ieee.org/abstract/document/8911242)
@@ -172,7 +158,7 @@ DK. Prasad, **H. Dong**, Deepu Rajan, and Chai Quek.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Mechanism and Machine Theory 2021</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> MMT</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Repelling-screw-based geometrical interpretation of dualities of compliant mechanisms](https://www.sciencedirect.com/science/article/abs/pii/S0094114X21003694)
@@ -184,7 +170,7 @@ DK. Prasad, **H. Dong**, Deepu Rajan, and Chai Quek.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Soft Robotics 2022</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SR</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bio-inspired Amphibious Origami Robot with Body Sensing for Multimodal Locomotion](https://www.liebertpub.com/doi/full/10.1089/soro.2021.0118)
@@ -196,7 +182,7 @@ DK. Prasad, **H. Dong**, Deepu Rajan, and Chai Quek.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Robotics and Automation Letters 2022</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GSG: A Granary Soft Gripper with Mechanical Force Sensing via 3-Dimensional Snap-Through Structure](https://www.liebertpub.com/doi/full/10.1089/soro.2021.0118)
@@ -207,8 +193,9 @@ DK. Prasad, **H. Dong**, Deepu Rajan, and Chai Quek.
 </div>
 
 
+## *Conference papers* &nbsp;
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018) </div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IROS 2018 </div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Efficient Pose Estimation from Single RGB-D Image via Hough Forest with Auto-context](https://ieeexplore.ieee.org/abstract/document/8594064)
@@ -220,7 +207,7 @@ DK. Prasad, **H. Dong**, Deepu Rajan, and Chai Quek.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IEEE/RSJ International Conference on Intelligent Robots and Systems (RA Letter-IROS 2018) </div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IROS 2018-RA Letter </div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fast Ellipse Detection for Robotic Manipulation of Cylindrical Objects](https://ieeexplore.ieee.org/abstract/document/8359377)
@@ -231,7 +218,7 @@ DK. Prasad, **H. Dong**, Deepu Rajan, and Chai Quek.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> International Conference on Image Processing (ICIP 2017) </div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> ICIP 2017 </div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Robust Ellipse Detection Via Arc Segmentation and Arc Classification](https://ieeexplore.ieee.org/abstract/document/8296244)
@@ -242,7 +229,7 @@ DK. Prasad, **H. Dong**, Deepu Rajan, and Chai Quek.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IEEE International Conference on Robotics and Automation (ICRA 2022) </div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> ICRA 2022 </div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning-based Ellipse Detection for RoboticGrasps of Cylinders and Ellipsoids]
