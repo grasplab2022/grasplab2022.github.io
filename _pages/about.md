@@ -32,12 +32,12 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 # News 
 
-- *<font face="Times New Roman" size="3" > 2022.Jun 15 </font>*:  &nbsp; <font face="Times New Roman" size="3" color = red> I have opened multiple fully-funded PostDoc, research associate (master's degree) and research officer (Bachelor's degree) positions in robotic perception and grasp. 欢迎具有机械电子、计算机、控制、电子、力学、材料、生物、化学等背景的博士后，博士，硕士、本科生加入机器人感知与抓取实验室, 感兴趣的同学请发邮件。</font>
+- *<font face="Times New Roman" size="3" > 2022.Jun 15 </font>*:  &nbsp; <font face="Times New Roman" size="3" color = blue> I have opened multiple fully-funded PostDoc, research associate (master's degree) and research officer (Bachelor's degree) positions in robotic perception and grasp.</font> <font color= red> 欢迎具有机械电子、计算机、控制、电子、力学、材料、生物、化学等背景的博士后，博士，硕士、本科生加入机器人感知与抓取实验室, 感兴趣的同学请发邮件。</font>
    
 
- - *<font face="Times New Roman" size="3"> 2022.Jun 10 </font>*: &nbsp; <font face="Times New Roman" size="3" color = red> A paper on the construction of a compliant gripper was accepted by IEEE Robotics and Automation Letters. </font>
+ - *<font face="Times New Roman" size="3"> 2022.Jun 10 </font>*: &nbsp; <font face="Times New Roman" size="3" color = blue> A paper on the construction of a compliant gripper was accepted by IEEE Robotics and Automation Letters. </font>
  
- - *<font face="Times New Roman" size="3"> 2022.Jun 09 </font>*: &nbsp; <font face="Times New Roman" size="3" color = red> A paper on nonredundant parallel manipulators was accepted by Mechanism and Machine Theory. </font>
+ - *<font face="Times New Roman" size="3"> 2022.Jun 09 </font>*: &nbsp; <font face="Times New Roman" size="3" color = blue> A paper on nonredundant parallel manipulators was accepted by Mechanism and Machine Theory. </font>
   
 
  - *<font face="Times New Roman" size="3"> 2022.Jun </font>*: &nbsp; <font face="Times New Roman" size="3" color = red> After a 10-year wonderful and unforgettable time in Singapore and United States, I joined Zhejiang University ME to start my academic faculty journey.</font> 
@@ -308,5 +308,5 @@ T Li, X Wu, **H Dong**, Haoyong Yu.
 ## *Supervising statement* &nbsp;
 
 <font face="Times New Roman" size="3"> <p style='text-align: justify;'> 
-  The Grasp Lab is committed to fostering creativity, opening, inclusion, and collaboration among our members with diverse backgrounds. **We strive to offer supportive environments for students to implement any novel ideas that break research borders, regardless of specific-purpose applications. Our lab highly encourages students to cooperate with other groups since robotics research is an interdisciplinary and collaborative endeavor.** For each incoming member, we advise a suitable research direction and also, have a weekly meeting with each member. We set up a weekly meeting to inspire brainstorming, discuss literature studies and research ideas. Generally, we will allow students to do visiting students overseas such as RRC at NTU in Singapore, RI at CMU in United States, and some universities in Norway, Australia, England, Japan, and Finland.
+  The Grasp Lab is committed to fostering creativity, opening, inclusion, and collaboration among our members with diverse backgrounds. **We strive to offer supportive environments for students to implement any novel ideas that break research borders, regardless of specific-purpose applications**. **Our lab highly encourages students to cooperate with other groups since robotics research is an interdisciplinary and collaborative endeavor**. For each incoming member, we advise a suitable research direction and also, have a weekly meeting with each member. We set up a weekly meeting to inspire brainstorming, discuss literature studies and research ideas. Generally, we will allow students to do visiting students overseas such as RRC at NTU in Singapore, RI at CMU in United States, and some universities in Norway, Australia, England, Japan, and Finland.
 </p></font>
