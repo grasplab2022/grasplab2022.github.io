@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Huixu Dong"
-description              : <font face="Times New Roman" size="3">"New Hundred-Talent Program" faculty (浙江大学"新百人计划"研究员/博导) of Zhejiang University</font>
+description              : <font face="Times New Roman" size="2">"New Hundred-Talent Program" faculty (浙江大学"新百人计划"研究员/博导) of Zhejiang University</font>
 repository               : "grasplab2022/grasplab2022.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : " Huixu Dong "
+  name             : <font face="Times New Roman" size="2"> Huixu Dong </font>
   avatar           : "images/photo.jpg"
-  bio              : <font face="Times New Roman" size="3"> Zhejiang University </font>
+  bio              : <font face="Times New Roman" size="2"> Zhejiang University </font>
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
