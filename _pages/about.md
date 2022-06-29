@@ -291,9 +291,9 @@ T Li, X Wu, **H Dong**, Haoyong Yu.
   
   <li><p style='text-align: justify;'>For current master's and undergraduate students with mechanical engineering, computer science, control engineering, electronics, mathematics mechanics, material and biology, and chemistry backgrounds at ZJU, please feel free to contact me by email (I am in general going to reply to emails on Friday or Saturday) if you are interested in joining my group.</p></li>
   
-  <p style='text-align: justify;'><li> For perspective PhD/master students, please apply to the Master/Ph.D. program in ME of ZJU and mention my name in application letters if you are interested in joining my group. </li></p>
+  <li><p style='text-align: justify;'> For perspective PhD/master students, please apply to the Master/Ph.D. program in ME of ZJU and mention my name in application letters if you are interested in joining my group. </p></li>
   
-  <p style='text-align: justify;'><li> Also, I have opened multiple fully-funded PostDoc, research associate (master's degree) and research officer (Bachelor's degree) positions in robotic perception and grasp. </li></p>
+  <li><p style='text-align: justify;'> Also, I have opened multiple fully-funded PostDoc, research associate (master's degree) and research officer (Bachelor's degree) positions in robotic perception and grasp. </p></li>
   
   欢迎具有机械电子、计算机、控制、电子、力学、材料、生物、化学等背景的博士后，博士，硕士、本科生加入机器人感知与抓取实验室, 感兴趣的同学请发邮件。
   
