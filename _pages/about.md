@@ -207,7 +207,7 @@ DK. Prasad, **H. Dong**, Deepu Rajan, and Chai Quek.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IROS 2018-RA Letter </div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IROS 2018 - RA-L </div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fast Ellipse Detection for Robotic Manipulation of Cylindrical Objects](https://ieeexplore.ieee.org/abstract/document/8359377)
