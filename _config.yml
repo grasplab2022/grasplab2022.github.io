@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "<font face="Times New Roman" size="4"> Huixu Dong </font>"
+  name             : <font face="Times New Roman" size="4">" Huixu Dong "</font>
   avatar           : "images/android-chrome-512x512.png"
-  bio              : " <font face="Times New Roman" size="4"> Zhejiang University </font>"
+  bio              : <font face="Times New Roman" size="4">"Zhejiang University "</font>
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
