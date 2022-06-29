@@ -289,7 +289,7 @@ T Li, X Wu, **H Dong**, Haoyong Yu.
 
 <font face="Times New Roman" size="3"> 
   
-  <li>(1) <p style='text-align: justify;'>For current master's and undergraduate students with mechanical engineering, computer science, control engineering, electronics, mathematics mechanics, material and biology, and chemistry backgrounds at ZJU, please feel free to contact me by email (I am in general going to reply to emails on Friday or Saturday) if you are interested in joining my group.</p></li>
+  -(1) <p style='text-align: justify;'>For current master's and undergraduate students with mechanical engineering, computer science, control engineering, electronics, mathematics mechanics, material and biology, and chemistry backgrounds at ZJU, please feel free to contact me by email (I am in general going to reply to emails on Friday or Saturday) if you are interested in joining my group.</p>
   
   <li>(2) <p style='text-align: justify;'> For perspective PhD/master students, please apply to the Master/Ph.D. program in ME of ZJU and mention my name in application letters if you are interested in joining my group. </p></li>
   
