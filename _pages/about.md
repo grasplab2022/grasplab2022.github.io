@@ -195,7 +195,7 @@ DK. Prasad, **H. Dong**, Deepu Rajan, and Chai Quek.
 
 ## *Conference papers* &nbsp;
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IROS 2018 </div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IROS 2018 </div><img src='../images/IROS_grasp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Efficient Pose Estimation from Single RGB-D Image via Hough Forest with Auto-context](https://ieeexplore.ieee.org/abstract/document/8594064)
@@ -207,7 +207,7 @@ DK. Prasad, **H. Dong**, Deepu Rajan, and Chai Quek.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IROS 2018 - RA-L </div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IROS 2018 - RA-L </div><img src='../images/RA-L_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fast Ellipse Detection for Robotic Manipulation of Cylindrical Objects](https://ieeexplore.ieee.org/abstract/document/8359377)
@@ -218,7 +218,7 @@ DK. Prasad, **H. Dong**, Deepu Rajan, and Chai Quek.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> ICIP 2017 </div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> ICIP 2017 </div><img src='../images/ICIP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Robust Ellipse Detection Via Arc Segmentation and Arc Classification](https://ieeexplore.ieee.org/abstract/document/8296244)
@@ -229,7 +229,7 @@ DK. Prasad, **H. Dong**, Deepu Rajan, and Chai Quek.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> ICRA 2022 </div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> ICRA 2022 </div><img src='../images/ICRA_grasp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning-based Ellipse Detection for RoboticGrasps of Cylinders and Ellipsoids]
