@@ -275,10 +275,14 @@ T Li, X Wu, **H Dong**, Haoyong Yu.
 
 # Grasp Lab
 
-## *Current members* &nbsp;
+## *Constructing the Lab* &nbsp;
+
+
+### -*Current members* &nbsp;
 
 
 
+### -*Robot buddies* &nbsp;
 
 
 ## *Joining My Group* &nbsp;
