@@ -40,7 +40,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
  
  - *<font face="Times New Roman" size="3"> 2022.Jun 09 </font>*: &nbsp; <font face="Times New Roman" size="3"> A paper on nonredundant parallel manipulators was accepted by Mechanism and Machine Theory. </font>
 
-<p style='text-align: justify;'> - *<font face="Times New Roman" size="3"> 2022.Jun </font>*: &nbsp; <font face="Times New Roman" size="3"> After a 10-year wonderful and unforgettable time in Singapore and United States, I joined Zhejiang University ME to start my academic faculty journey.</font></p> 
+ - *<font face="Times New Roman" size="3"> 2022.Jun </font>*: &nbsp; <font face="Times New Roman" size="3"> After a 10-year wonderful and unforgettable time in Singapore and United States, I joined Zhejiang University ME to start my academic faculty journey.</font> 
 
 
 
