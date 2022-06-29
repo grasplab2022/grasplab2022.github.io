@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "HUIXU DONG/Homepage"
-description              : "'New Hundred-Talent Program' faculty (浙江大学'新百人计划'研究员/博导) of Zhejiang University"
+description              : "<font face="Times New Roman" size="4">'New Hundred-Talent Program' faculty (浙江大学'新百人计划'研究员/博导) of Zhejiang University</font>"
 repository               : "grasplab2022/grasplab2022.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Huixu Dong"
+  name             : "<font face="Times New Roman" size="4"> Huixu Dong </font>"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Zhejiang University"
+  bio              : " <font face="Times New Roman" size="4"> Zhejiang University </font>"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com.sg/citations?user=pxv7KzgAAAAJ&hl=en"  
   email            : "huixudong@zju.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Dong-Huixu-2"   
   uri              :
   bitbucket        :
   codepen          :
@@ -55,7 +55,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCoGM67zQDdQndQ0tiRSS_5g"
   wikipedia        :
 
 
