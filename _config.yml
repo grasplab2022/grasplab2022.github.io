@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "HUIXU DONG/Homepage"
-description              : "<font face="Times New Roman" size="4">'New Hundred-Talent Program' faculty (浙江大学'新百人计划'研究员/博导) of Zhejiang University</font>"
+title                    : "Huixu Dong"
+description              : <font face="Times New Roman" size="4">"'New Hundred-Talent Program' faculty (浙江大学'新百人计划'研究员/博导) of Zhejiang University"</font>
 repository               : "grasplab2022/grasplab2022.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : <font face="Times New Roman" size="4">" Huixu Dong "</font>
+  name             : " Huixu Dong "
   avatar           : "images/android-chrome-512x512.png"
-  bio              : <font face="Times New Roman" size="4">"Zhejiang University "</font>
+  bio              : "Zhejiang University "
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
