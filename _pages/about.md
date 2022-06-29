@@ -49,7 +49,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 ## *Journal papers* &nbsp;
   
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-RO Long paper</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-RO Long paper</div><img src='../images/T-RO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Real-time Robotic Manipulation of Cylindrical Objects in Dynamic Scenarios through Elliptic Shape Primitives](https://ieeexplore.ieee.org/document/8489921)
@@ -61,7 +61,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RCIM</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RCIM</div><img src='../images/RCIM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Geometric design optimization of an under-actuated tendon-driven robotic gripper](https://www.sciencedirect.com/science/article/abs/pii/S0736584517301643)
@@ -73,7 +73,18 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ASE</div><img src='../images/T-ASE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Enabling Robotic Grasp: Object Pose Estimation via Pruned Hough Forest with Combined Split Schemes](https://ieeexplore.ieee.org/abstract/document/9199305)
+**H. Dong**, DK Prasad, IM Chen.
+  
+- Here we present a novel approach of pose estimation of textureless and textured objects. The algorithm utilizes a single RGB-D image to exploit depth invariant, oriented point pair feature as well as local contextual sensitivity in cluttered environments.   
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='../images/RA-L_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fast Ellipse Detection for Robotic Manipulation of Cylindrical Objects](https://ieeexplore.ieee.org/abstract/document/8359377)
@@ -85,8 +96,19 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMT</div><img src='../images/MMT-stable.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMT</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+[Enabling grasp action: Generalized quality evaluation of grasp stability via contact stiffness from contact mechanics insight](https://www.sciencedirect.com/science/article/abs/pii/S0094114X18318639)
+**H. Dong**, C Qiu, DK Prasad, Y Pan, J Dai, IM Chen.
+  
+- We propose a new evaluation approach of the quality of grasping stability via constructing a model of grasping stiffness based on the theory of contact mechanics. 
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMT</div><img src='../images/MMT-screw.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Grasp analysis and optimal design of robotic fingertip for two tendon-driven fingers](https://www.sciencedirect.com/science/article/abs/pii/S0094114X18312412)
@@ -98,7 +120,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='../images/PR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Accurate detection of ellipses with false detection control at video rates using a gradient analysis](https://www.sciencedirect.com/science/article/abs/pii/S0031320318301134)
@@ -109,29 +131,21 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMT</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='../images/RA-L_2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Enabling grasp action: Generalized quality evaluation of grasp stability via contact stiffness from contact mechanics insight](https://www.sciencedirect.com/science/article/abs/pii/S0094114X18318639)
-**H. Dong**, C Qiu, DK Prasad, Y Pan, J Dai, IM Chen.
-  
-- We propose a new evaluation approach of the quality of grasping stability via constructing a model of grasping stiffness based on the theory of contact mechanics. 
+[GSG: A Granary Soft Gripper with Mechanical Force Sensing via 3-Dimensional Snap-Through Structure](https://www.liebertpub.com/doi/full/10.1089/soro.2021.0118)
+**H. Dong**, CY Chen, C Qiu, CH Yeow, H Yu.
+ 
+- We propose a novel soft gripper that looks like a ‘granary’ in the geometrical shape with a snap-through bistable mechanism fabricated by an ordered mold technology, which consists of a palm chamber, shell, cap and three fingers.
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ASE</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Enabling Robotic Grasp: Object Pose Estimation via Pruned Hough Forest with Combined Split Schemes](https://ieeexplore.ieee.org/abstract/document/9199305)
-**H. Dong**, DK Prasad, IM Chen.
-  
-- Here we present a novel approach of pose estimation of textureless and textured objects. The algorithm utilizes a single RGB-D image to exploit depth invariant, oriented point pair feature as well as local contextual sensitivity in cluttered environments.   
-</div>
-</div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-Mech</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-Mech</div><img src='../images/T-Mech.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Real-time Avoidance Strategy of Dynamic Obstacles via Detection and Tracking with 2D Lidar for Mobile Robot](https://ieeexplore.ieee.org/abstract/document/9246251)
@@ -143,22 +157,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 </div>
 
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Are object detection assessment criteria ready for maritime computer vision?](https://ieeexplore.ieee.org/abstract/document/8911242)
-DK. Prasad, **H. Dong**, Deepu Rajan, and Chai Quek.
- 
-- We discuss the problem of defining assessment metrics suitable for maritime computer vision. We consider new bottom edge proximity metrics as assessment metrics for maritime computer vision. 
-</div>
-</div>
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> MMT</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> MMT</div><img src='../images/MMT-screw.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Repelling-screw-based geometrical interpretation of dualities of compliant mechanisms](https://www.sciencedirect.com/science/article/abs/pii/S0094114X21003694)
@@ -170,7 +169,7 @@ DK. Prasad, **H. Dong**, Deepu Rajan, and Chai Quek.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SR</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SR</div><img src='../images/SR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bio-inspired Amphibious Origami Robot with Body Sensing for Multimodal Locomotion](https://www.liebertpub.com/doi/full/10.1089/soro.2021.0118)
@@ -180,17 +179,18 @@ DK. Prasad, **H. Dong**, Deepu Rajan, and Chai Quek.
 </div>
 </div>
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS</div><img src='../images/TITS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GSG: A Granary Soft Gripper with Mechanical Force Sensing via 3-Dimensional Snap-Through Structure](https://www.liebertpub.com/doi/full/10.1089/soro.2021.0118)
-**H. Dong**, CY Chen, C Qiu, CH Yeow, H Yu.
+[Are object detection assessment criteria ready for maritime computer vision?](https://ieeexplore.ieee.org/abstract/document/8911242)
+DK. Prasad, **H. Dong**, Deepu Rajan, and Chai Quek.
  
-- We propose a novel soft gripper that looks like a ‘granary’ in the geometrical shape with a snap-through bistable mechanism fabricated by an ordered mold technology, which consists of a palm chamber, shell, cap and three fingers.
+- We discuss the problem of defining assessment metrics suitable for maritime computer vision. We consider new bottom edge proximity metrics as assessment metrics for maritime computer vision. 
 </div>
 </div>
+
+
+
 
 
 ## *Conference papers* &nbsp;
