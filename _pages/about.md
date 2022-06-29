@@ -256,10 +256,6 @@ T Li, X Wu, **H Dong**, Haoyong Yu.
 # Projects
 
 
-
-
-
-
 # Grasp Lab
 
 ## *Constructing the Lab* &nbsp;
