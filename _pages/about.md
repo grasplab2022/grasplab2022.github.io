@@ -140,7 +140,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
   
 <p><font face="Times New Roman" size="3"> <b>H. Dong</b>, CY Chen, C Qiu, CH Yeow, H Yu.</font></p> 
 
-<p><font face="Times New Roman" size="3"> <i>IEEE Robotics and Automation Letters(<b>RA-L</b>), 2022.</i></font></p>
+<p><font face="Times New Roman" size="3"> <i>IEEE Robotics and Automation Letters</i>(<b>RA-L</b>), 2022.</font></p>
   
 </div>
 </div>
