@@ -32,16 +32,16 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 # News 
 
- - *<font face="Times New Roman" size="3"> 2022.Jun 30 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on the construction of a compliant gripper was accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022). </font>
+ - *<font face="Times New Roman" size="3"> 2022.Jun 30 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on the construction of a compliant gripper was accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS 2022</b>). </font>
 
- - *<font face="Times New Roman" size="3"> 2022.Jun 30 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on the construction of a parallel gripper was accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022). </font>
+ - *<font face="Times New Roman" size="3"> 2022.Jun 30 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on the construction of a parallel gripper was accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS 2022</b>). </font>
 
 - *<font face="Times New Roman" size="3" > 2022.Jun 15 </font>*:  &nbsp; <font face="Times New Roman" size="3" > I have opened multiple fully-funded PostDoc, research associate (master's degree) and research officer (Bachelor's degree) positions in robotic perception and grasp.</font> <font color= red> 欢迎具有机械电子、计算机、控制、电子、力学、材料、生物、化学等背景的博士后，博士，硕士、本科生加入机器人感知与抓取实验室, 感兴趣的同学请发邮件。</font>
    
 
- - *<font face="Times New Roman" size="3"> 2022.Jun 10 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on the construction of a soft gripper was accepted by IEEE Robotics and Automation Letters (RA-L). </font>
+ - *<font face="Times New Roman" size="3"> 2022.Jun 10 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on the construction of a soft gripper was accepted by IEEE Robotics and Automation Letters (<b>RA-L</b>). </font>
  
- - *<font face="Times New Roman" size="3"> 2022.Jun 09 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on the theory of nonredundant parallel manipulators was accepted by Mechanism and Machine Theory (MMT). </font>
+ - *<font face="Times New Roman" size="3"> 2022.Jun 09 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on the theory of nonredundant parallel manipulators was accepted by Mechanism and Machine Theory (<b>MMT</b>). </font>
   
 
  - *<font face="Times New Roman" size="3"> 2022.Jun </font>*: &nbsp; <font face="Times New Roman" size="3" > After a 10-year wonderful and unforgettable time in Singapore and United States, I joined Zhejiang University ME to start my academic faculty journey.</font> 
@@ -53,7 +53,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 ## *Journal papers* &nbsp;
   
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/T-RO.png' alt="sym" width="200"></div></div>
+
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>Real-time Robotic Manipulation of Cylindrical Objects in Dynamic Scenarios through Elliptic Shape Primitives</b></font></p>  
@@ -102,7 +102,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 <p><font face="Times New Roman" size="3"> <b>Enabling grasp action: Generalized quality evaluation of grasp stability via contact stiffness from contact mechanics insight</b></font></p>  
 <p><font face="Times New Roman" size="3"> <b>H. Dong</b>, C Qiu, DK Prasad, Y Pan, J Dai, IM Chen.</font></p> 
-<p><font face="Times New Roman" size="3"> <i>Mechanism and Machine Theory</i>(<b>PR</b>), 2019.</font></p>      
+<p><font face="Times New Roman" size="3"> <i>Mechanism and Machine Theory</i>(<b>MMT</b>), 2019.</font></p>      
  
 </div>
 </div>
@@ -114,7 +114,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 <p><font face="Times New Roman" size="3"> <b>Grasp analysis and optimal design of robotic fingertip for two tendon-driven fingers</b></font></p>  
 <p><font face="Times New Roman" size="3"> <b>H. Dong</b>, E. Asadi, C. Qiu, J. Dai, and I-Ming Chen.</font></p> 
-<p><font face="Times New Roman" size="3"> <i>Mechanism and Machine Theory</i>(<b>PR</b>), 2018.</font></p>    
+<p><font face="Times New Roman" size="3"> <i>Mechanism and Machine Theory</i>(<b>MMT</b>), 2018.</font></p>    
   
 </div>
 </div>
