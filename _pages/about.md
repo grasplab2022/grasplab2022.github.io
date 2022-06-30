@@ -153,49 +153,49 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> MMT</div><img src='../images/MMT-screw.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> MMT</div><img src='../images/MMT-screw.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Repelling-screw-based geometrical interpretation of dualities of compliant mechanisms](https://www.sciencedirect.com/science/article/abs/pii/S0094114X21003694)
-**H. Dong**, K Wang, C Chen, IM Chen, J Dai.
- 
-- This paper provides a geometrical insight into the dualities of compliant mechanisms via repelling screws. A method for the construction of the repelling screw system is proposed. 
+<p><font face="Times New Roman" size="3"> <b>Repelling-screw-based geometrical interpretation of dualities of compliant mechanisms</b></font></p> 
+<p><font face="Times New Roman" size="3"> <b>H. Dong</b>,  K Wang, C Chen, IM Chen, J Dai.</font></p> 
+<p><font face="Times New Roman" size="3"> <i>Mechanism and Machine Theory</i>(<b>MMT</b>), 2021.</font></p>
+  
 </div>
 </div>
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SR</div><img src='../images/SR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SR</div><img src='../images/SR.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Bio-inspired Amphibious Origami Robot with Body Sensing for Multimodal Locomotion](https://www.liebertpub.com/doi/full/10.1089/soro.2021.0118)
-**H. Dong**, HT Yang, S Ding, T Li, H Yu.
- 
-- To relieve this issue, we propose a novel bioinspired amphibious origami machine with body sensing for multimodal locomotion. In this work, inspired by the peristalsis of inchworm and human swimming behaviors, a unique origami body with legs and origami arms is developed to enable the integrated robot to move both on land and in water.
+<p><font face="Times New Roman" size="3"> <b>Bio-inspired Amphibious Origami Robot with Body Sensing for Multimodal Locomotion</b></font></p> 
+<p><font face="Times New Roman" size="3"> <b>H. Dong</b>,  HT Yang, S Ding, T Li, H Yu.</font></p> 
+<p><font face="Times New Roman" size="3"> <i>Soft Robotics</i>(<b>SORO</b>), 2022.</font></p>
+  
 </div>
 </div>
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS</div><img src='../images/TITS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS</div><img src='../images/TITS.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Are object detection assessment criteria ready for maritime computer vision?](https://ieeexplore.ieee.org/abstract/document/8911242)
-DK. Prasad, **H. Dong**, Deepu Rajan, and Chai Quek.
- 
-- We discuss the problem of defining assessment metrics suitable for maritime computer vision. We consider new bottom edge proximity metrics as assessment metrics for maritime computer vision. 
+<p><font face="Times New Roman" size="3"> <b>Are object detection assessment criteria ready for maritime computer vision?</b></font></p> 
+<p><font face="Times New Roman" size="3"> DK. Prasad, <b>H. Dong</b>, Deepu Rajan, and Chai Quek.</font></p> 
+<p><font face="Times New Roman" size="3"> <i>IEEE Transactions on Intelligent Transportation Systems</i>(<b>TITS</b>), 2019.</font></p> 
+
 </div>
 </div>
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMT</div><img src='../images/TITS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMT</div><img src='../images/MMT-screw2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Are object detection assessment criteria ready for maritime computer vision?](https://ieeexplore.ieee.org/abstract/document/8911242)
-DK. Prasad, **H. Dong**, Deepu Rajan, and Chai Quek.
- 
-- We discuss the problem of defining assessment metrics suitable for maritime computer vision. We consider new bottom edge proximity metrics as assessment metrics for maritime computer vision. 
+<p><font face="Times New Roman" size="3"> <b>A Repelling-Screw-Based Approach for the Construction of Generalized Jacobian Matrices for Nonredundant Parallel Manipulators</b></font></p> 
+<p><font face="Times New Roman" size="3"> Kun Wang, <b>H. Dong</b>, Emmanouil Spyrakos-Papastavridis, Chen Qiu, Jian S. Dai.</font></p> 
+<p><font face="Times New Roman" size="3"> <i>Mechanism and Machine Theory</i>(<b>MMT</b>), 2022.</font></p>   
+
 </div>
 </div>
 
