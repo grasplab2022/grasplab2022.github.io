@@ -121,13 +121,13 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='../images/PR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='../images/PR.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
+ 
+<p><font face="Times New Roman" size="3"> <b>Accurate detection of ellipses with false detection control at video rates using a gradient analysis</b></font></p>  
+<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, D. K. Prasad, and IM Chen.</font></p> 
+<p><font face="Times New Roman" size="3"> <i>Pattern Recognition</i>(<b>PR</b>), 2017.</font></p>  
 
-[Accurate detection of ellipses with false detection control at video rates using a gradient analysis](https://www.sciencedirect.com/science/article/abs/pii/S0031320318301134)
-**H. Dong**, D. K. Prasad, and I-Ming Chen
-  
-- We present a novel fast and robust ellipse detection method. The method adopts arcs selection, smart grouping, and repeated utilization of gradient information to significantly reduce the computations otherwise needed without compromising the detection effectiveness. 
 </div>
 </div>
 
@@ -136,10 +136,8 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='../images/RA-L_2.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<p><font face="Times New Roman" size="3"> <b>GSG: A Granary Soft Gripper with Mechanical Force Sensing via 3-Dimensional Snap-Through Structure</b></font></p> 
-  
+<p><font face="Times New Roman" size="3"> <b>GSG: A Granary Soft Gripper with Mechanical Force Sensing via 3-Dimensional Snap-Through Structure</b></font></p>  
 <p><font face="Times New Roman" size="3"> <b>H. Dong</b>, CY Chen, C Qiu, CH Yeow, H Yu.</font></p> 
-
 <p><font face="Times New Roman" size="3"> <i>IEEE Robotics and Automation Letters</i>(<b>RA-L</b>), 2022.</font></p>
   
 </div>
@@ -148,14 +146,13 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-Mech</div><img src='../images/T-Mech.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-Mech</div><img src='../images/T-Mech.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Real-time Avoidance Strategy of Dynamic Obstacles via Detection and Tracking with 2D Lidar for Mobile Robot](https://ieeexplore.ieee.org/abstract/document/9246251)
-**H. Dong**, CY Weng, CQ Guo, H Yu, IM Chen.
-
-[**Project**](https://www.youtube.com/watch?v=A2Ad8rNQqYw) 
-- In this article, we present a real-time, simple, and reliable approach to detecting and tracking obstacles via a two-dimensional lidar in dynamic scenarios where the mobile robot and the obstacle are moving.
+<p><font face="Times New Roman" size="3"> <b>Real-time Avoidance Strategy of Dynamic Obstacles via Detection and Tracking with 2D Lidar for Mobile Robot</b></font></p> 
+<p><font face="Times New Roman" size="3"> <b>H. Dong</b>,  CY Weng, CQ Guo, H Yu, IM Chen.</font></p> 
+<p><font face="Times New Roman" size="3"> <i>IEEE/ASME Transactions on Mechatronics</i>(<b>T-MECH</b>), 2020.</font></p>
+  
 </div>
 </div>
 
