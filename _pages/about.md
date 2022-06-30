@@ -242,7 +242,7 @@ manner, we build an end-to-end deep neural network to detect cylinderical object
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> ICRA 2022 </div><img src='../images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> ICRA 2022 </div><img src='../images/ICRA_imu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Estimation of Upper Limb Kinematics with a Magnetometer-Free Egocentric Visual-Inertial System]
