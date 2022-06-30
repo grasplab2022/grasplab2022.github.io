@@ -136,13 +136,14 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='../images/RA-L_2.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-
-  
 <font face="Times New Roman" size="3"> <b>GSG: A Granary Soft Gripper with Mechanical Force Sensing via 3-Dimensional Snap-Through Structure</b></font> 
+  
   
  <font face="Times New Roman" size="3"> <b>H. Dong</b>, CY Chen, C Qiu, CH Yeow, H Yu.</font> 
  
+  
 <font face="Times New Roman" size="3"> <i>IEEE Robotics and Automation Letters(<b>RA-L</b>), 2022.</i></font> 
+  
   
 
 </div>
