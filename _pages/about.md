@@ -49,73 +49,69 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 ## *Journal papers* &nbsp;
   
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-RO Long paper</div><img src='../images/T-RO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-RO Long paper</div><img src='../images/T-RO.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Real-time Robotic Manipulation of Cylindrical Objects in Dynamic Scenarios through Elliptic Shape Primitives](https://ieeexplore.ieee.org/document/8489921)
-**H. Dong**, E. Asadi, G. Sun, D. K. Prasad, I-Ming Chen
-  
-[**Project**](https://www.youtube.com/watch?v=UvszHZs8R1k)
-- We show that the robotic manipulator, empowered by the elliptic shape primitive algorithm, performs well in complex manipulation experiments as well as dynamic scenarios.
+<p><font face="Times New Roman" size="3"> <b>Real-time Robotic Manipulation of Cylindrical Objects in Dynamic Scenarios through Elliptic Shape Primitives</b></font></p>  
+<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, E. Asadi, G. Sun, D. K. Prasad, I-Ming Chen.</font></p> 
+<p><font face="Times New Roman" size="3"> <i>IEEE Transactions on Robotics</i>(<b>T-RO Long paper</b>), 2017.</font></p>    
+
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RCIM</div><img src='../images/RCIM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RCIM</div><img src='../images/RCIM.png' alt="sym" width="60%"></div></div>
+<div class='paper-box-text' markdown="1">
+ 
+<p><font face="Times New Roman" size="3"> <b>Geometric design optimization of an under-actuated tendon-driven robotic gripper</b></font></p>  
+<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, E. Asadi, C. Qiu, J. Dai, and I-Ming Chen.</font></p> 
+<p><font face="Times New Roman" size="3"> <i>Robotics and Computer-Integrated Manufacturing</i>(<b>RCIM</b>), 2017.</font></p>   
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ASE</div><img src='../images/T-ASE.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Geometric design optimization of an under-actuated tendon-driven robotic gripper](https://www.sciencedirect.com/science/article/abs/pii/S0736584517301643)
-**H. Dong**, E. Asadi, C. Qiu, J. Dai, and I-Ming Chen
+<p><font face="Times New Roman" size="3"> <b>Enabling Robotic Grasp: Object Pose Estimation via Pruned Hough Forest with Combined Split Schemes</b></font></p>  
+<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, DK Prasad, IM Chen.</font></p> 
+<p><font face="Times New Roman" size="3"> <i>IEEE Transactions on Automation Science and Engineering</i>(<b>T-ASE</b>), 2020.</font></p>    
   
-[**Project**](https://www.youtube.com/watch?v=heXbBjILukw)
-- The design optimization of a robotic gripper is of utmost importance for achieving a stable grasp behaviour. This work focuses on analysing the optimal design of an under-actuated tendon-driven robotic gripper with two 3-phalange fingers and a geometric design optimization method is proposed to achieve a stable grasp performance.
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ASE</div><img src='../images/T-ASE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='../images/RA-L_1.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Enabling Robotic Grasp: Object Pose Estimation via Pruned Hough Forest with Combined Split Schemes](https://ieeexplore.ieee.org/abstract/document/9199305)
-**H. Dong**, DK Prasad, IM Chen.
-  
-- Here we present a novel approach of pose estimation of textureless and textured objects. The algorithm utilizes a single RGB-D image to exploit depth invariant, oriented point pair feature as well as local contextual sensitivity in cluttered environments.   
+<p><font face="Times New Roman" size="3"> <b>Fast Ellipse Detection for Robotic Manipulation of Cylindrical Objects</b></font></p>  
+<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, E. Asadi, C. Qiu, J. Dai, and I-Ming Chen.</font></p> 
+<p><font face="Times New Roman" size="3"> <i>IEEE Robotics and Automation Letters</i>(<b>RA-L</b>), 2018.</font></p>      
+
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='../images/RA-L_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMT</div><img src='../images/MMT-stable.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Fast Ellipse Detection for Robotic Manipulation of Cylindrical Objects](https://ieeexplore.ieee.org/abstract/document/8359377)
-**H. Dong**, E. Asadi, C. Qiu, J. Dai, and I-Ming Chen
-  
-[**Project**](https://www.youtube.com/watch?v=heXbBjILukw)
-- We present a novel algorithm to perform fast and robust ellipse detection. First, the method utilizes the information of edge curvature to split curves into arcs. Next, the arc convexity-concavity is used to classify arcs into different quadrants of ellipses. Then, based on multiple geometric constraints the arcs can be grouped at low computational cost.
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMT</div><img src='../images/MMT-stable.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<b>Enabling grasp action: Generalized quality evaluation of grasp stability via contact stiffness from contact mechanics insight</b>
-  
-**H. Dong**, C Qiu, DK Prasad, Y Pan, J Dai, IM Chen.
-  
+<p><font face="Times New Roman" size="3"> <b>Enabling grasp action: Generalized quality evaluation of grasp stability via contact stiffness from contact mechanics insight</b></font></p>  
+<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, C Qiu, DK Prasad, Y Pan, J Dai, IM Chen.</font></p> 
+<p><font face="Times New Roman" size="3"> <i>Mechanism and Machine Theory</i>(<b>PR</b>), 2019.</font></p>      
  
 </div>
 </div>
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMT</div><img src='../images/MMT-screw.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMT</div><img src='../images/MMT-opti.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Grasp analysis and optimal design of robotic fingertip for two tendon-driven fingers](https://www.sciencedirect.com/science/article/abs/pii/S0094114X18312412)
-**H. Dong**, E. Asadi, C. Qiu, J. Dai, and I-Ming Chen.
+<p><font face="Times New Roman" size="3"> <b>Grasp analysis and optimal design of robotic fingertip for two tendon-driven fingers</b></font></p>  
+<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, E. Asadi, C. Qiu, J. Dai, and I-Ming Chen.</font></p> 
+<p><font face="Times New Roman" size="3"> <i>Mechanism and Machine Theory</i>(<b>PR</b>), 2018.</font></p>    
   
-- We describe the effect of fingertip dimension on the stability of fingertip grasp, while other existing works mostly paid close attention to stability analysis for existing fingertip designs or prototypes.  
 </div>
 </div>
 
