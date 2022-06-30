@@ -56,7 +56,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div width=60%>
+    <div width="60%">
       <div class="badge">T-RO Long paper</div>
       <img src='../images/T-RO.png' alt="sym" width="60%">
     </div>
