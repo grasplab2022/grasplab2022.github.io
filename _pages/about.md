@@ -99,10 +99,11 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMT</div><img src='../images/MMT-stable.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Enabling grasp action: Generalized quality evaluation of grasp stability via contact stiffness from contact mechanics insight](https://www.sciencedirect.com/science/article/abs/pii/S0094114X18318639)
+<b>Enabling grasp action: Generalized quality evaluation of grasp stability via contact stiffness from contact mechanics insight</b>
+  
 **H. Dong**, C Qiu, DK Prasad, Y Pan, J Dai, IM Chen.
   
-- We propose a new evaluation approach of the quality of grasping stability via constructing a model of grasping stiffness based on the theory of contact mechanics. 
+ 
 </div>
 </div>
 
@@ -132,13 +133,14 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='../images/RA-L_2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='../images/RA-L_2.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GSG: A Granary Soft Gripper with Mechanical Force Sensing via 3-Dimensional Snap-Through Structure](https://www.liebertpub.com/doi/full/10.1089/soro.2021.0118)
+<b>GSG: A Granary Soft Gripper with Mechanical Force Sensing via 3-Dimensional Snap-Through Structure</b>
+  
 **H. Dong**, CY Chen, C Qiu, CH Yeow, H Yu.
  
-- We propose a novel soft gripper that looks like a ‘granary’ in the geometrical shape with a snap-through bistable mechanism fabricated by an ordered mold technology, which consists of a palm chamber, shell, cap and three fingers.
+<i>IEEE Robotics and Automation Letters(**RA-L**), 2022.</i>
 </div>
 </div>
 
@@ -179,6 +181,8 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 </div>
 </div>
 
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS</div><img src='../images/TITS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -190,6 +194,16 @@ DK. Prasad, **H. Dong**, Deepu Rajan, and Chai Quek.
 </div>
 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMT</div><img src='../images/TITS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Are object detection assessment criteria ready for maritime computer vision?](https://ieeexplore.ieee.org/abstract/document/8911242)
+DK. Prasad, **H. Dong**, Deepu Rajan, and Chai Quek.
+ 
+- We discuss the problem of defining assessment metrics suitable for maritime computer vision. We consider new bottom edge proximity metrics as assessment metrics for maritime computer vision. 
+</div>
+</div>
 
 
 
