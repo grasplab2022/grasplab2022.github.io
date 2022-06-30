@@ -165,7 +165,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SR</div><img src='../images/SR.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SORO</div><img src='../images/SR.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>Bio-inspired Amphibious Origami Robot with Body Sensing for Multimodal Locomotion</b></font></p> 
@@ -189,7 +189,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMT</div><img src='../images/MMT-screw2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMT</div><img src='../images/MMT-screw2.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>A Repelling-Screw-Based Approach for the Construction of Generalized Jacobian Matrices for Nonredundant Parallel Manipulators</b></font></p> 
@@ -203,64 +203,62 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 ## *Conference papers* &nbsp;
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IROS 2018 </div><img src='../images/IROS_grasp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IROS 2018 </div><img src='../images/IROS_grasp.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Efficient Pose Estimation from Single RGB-D Image via Hough Forest with Auto-context](https://ieeexplore.ieee.org/abstract/document/8594064)
-**H. Dong**, D. K. Prasad, Q.Yuan, J.Zhou, E.Asadi, I-Ming Chen.
+<p><font face="Times New Roman" size="3"> <b>Efficient Pose Estimation from Single RGB-D Image via Hough Forest with Auto-context</b></font></p> 
+<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, D. K. Prasad, Q.Yuan, J.Zhou, E.Asadi, I-Ming Chen.</font></p> 
+<p><font face="Times New Roman" size="3"> <i>IEEE/RSJ International Conference on Intelligent Robots and Systems</i>(<b>IROS</b>), 2018.</font></p> 
+  
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IROS 2018 - RA-L </div><img src='../images/RA-L_1.png' alt="sym" width="60%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<p><font face="Times New Roman" size="3"> <b>Fast Ellipse Detection for Robotic Manipulation of Cylindrical Objects</b></font></p> 
+<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, G.Sun, W.-C.Pang, E.Asadi, D.K.Prasad, I-Ming Chen</font></p> 
+<p><font face="Times New Roman" size="3"> <i>IEEE/RSJ International Conference on Intelligent Robots and Systems</i>(<b>IROS - RA-L</b>), 2018.</font></p>  
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> ICIP 2017 </div><img src='../images/ICIP.png' alt="sym" width="60%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+<p><font face="Times New Roman" size="3"> <b>Robust Ellipse Detection Via Arc Segmentation and Arc Classification</b></font></p> 
+<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, I-Ming Chen, and D. K. Prasad</font></p> 
+<p><font face="Times New Roman" size="3"> <i>International Conference on Image Processing</i>(<b>ICIP</b>), 2017.</font></p>   
  
-- We propose a high efficient learning approach to estimating 6D (Degree of Freedom) pose of the textured or texture-less objects for grasping purposes in a cluttered environment where the objects might be partially occluded. The method comprises three main steps
 </div>
 </div>
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IROS 2018 - RA-L </div><img src='../images/RA-L_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> ICRA 2022 </div><img src='../images/ICRA_grasp.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Fast Ellipse Detection for Robotic Manipulation of Cylindrical Objects](https://ieeexplore.ieee.org/abstract/document/8359377)
-**H. Dong**, G.Sun, W.-C.Pang, E.Asadi, D.K.Prasad, I-Ming Chen
- 
-- We present a novel algorithm to perform fast and robust ellipse detection. First, the method utilizes the information of edge curvature to split curves into arcs. Next, the arc convexity-concavity is used to classify arcs into different quadrants of ellipses. Then, based on multiple geometric constraints the arcs can be grouped at low computational cost.
+<p><font face="Times New Roman" size="3"> <b>Learning-based Ellipse Detection for RoboticGrasps of Cylinders and Ellipsoids</b></font></p> 
+<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, J Zhou, C Qiu, DK Prasad, I-Ming Chen.</font></p> 
+<p><font face="Times New Roman" size="3"> <i>IEEE International Conference on Robotics and Automation</i>(<b>ICRA</b>), 2022.</font></p>    
+  
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> ICIP 2017 </div><img src='../images/ICIP.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> ICRA 2022 </div><img src='../images/ICRA_imu.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Robust Ellipse Detection Via Arc Segmentation and Arc Classification](https://ieeexplore.ieee.org/abstract/document/8296244)
-**H. Dong**, I-Ming Chen, and D. K. Prasad
- 
-- In this paper, we propose a novel ellipse detection algorithm for synthetic and real images.The proposed method demonstrates the capability of detecting ellipses with an excellent accuracy at an acceptable speed level in three public datasets. 
+<p><font face="Times New Roman" size="3"> <b>Estimation of Upper Limb Kinematics with a Magnetometer-Free Egocentric Visual-Inertial System</b></font></p> 
+<p><font face="Times New Roman" size="3"> T Li, X Wu, <b>H. Dong</b>, Haoyong Yu.</font></p> 
+<p><font face="Times New Roman" size="3"> <i>IEEE International Conference on Robotics and Automation</i>(<b>ICRA</b>), 2022.</font></p>    
+
 </div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> ICRA 2022 </div><img src='../images/ICRA_grasp.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Learning-based Ellipse Detection for RoboticGrasps of Cylinders and Ellipsoids]
-**H. Dong**, J Zhou, C Qiu, DK Prasad, I-Ming Chen
- 
-- In this work, we propose a novel approach to generating ground truth for training the model based on domain randomization. Using synthetic data generated in this
-manner, we build an end-to-end deep neural network to detect cylinderical objects for robotic manipulations.
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> ICRA 2022 </div><img src='../images/ICRA_imu.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Estimation of Upper Limb Kinematics with a Magnetometer-Free Egocentric Visual-Inertial System]
-T Li, X Wu, **H Dong**, Haoyong Yu.
-</div>
-</div>
-
-
-
-
+</div>  
+  
 # Projects
 
 
