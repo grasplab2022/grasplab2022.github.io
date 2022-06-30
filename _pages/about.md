@@ -55,14 +55,14 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
   
 
 
-<div class='paper-box'><img src='../images/RCIM.png' alt="sym" width="60%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><img src='../images/T-RO.png' alt="sym" width="60%"></div></div>
+
 
 <p><font face="Times New Roman" size="3"> <b>Real-time Robotic Manipulation of Cylindrical Objects in Dynamic Scenarios through Elliptic Shape Primitives</b></font></p>  
 <p><font face="Times New Roman" size="3"> <b>H. Dong</b>, E. Asadi, G. Sun, D. K. Prasad, I-Ming Chen.</font></p> 
 <p><font face="Times New Roman" size="3"> <i>IEEE Transactions on Robotics</i>(<b>T-RO Long paper</b>), 2018.</font></p>    
 
-</div>
+
 </div>
 
 
