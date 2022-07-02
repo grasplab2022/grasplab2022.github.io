@@ -71,7 +71,7 @@
         .paper-box-image{
             justify-content: left;
             min-width: 200px;
-            max-width: 40%;
+            max-width: 30%;
             order: 1;
         }
         
@@ -107,3 +107,20 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.member-column {
+    float: left;
+    width: 33.33%;
+    padding: 5%;
+  }
+  
+  /* Clear floats after image containers */
+  .member-row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  .member-row .description {
+    text-align: center;
+  }

@@ -56,7 +56,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 <div class='paper-box'>
       <div class="badge">T-RO Long paper</div>
-      <img src='../images/T-RO.png' alt="sym" width="60%">
+      <img src='../images/T-RO.png' alt="sym" width="100%">
 <div class='paper-box-text' markdown="1">
 
 
@@ -69,7 +69,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RCIM</div><img src='../images/RCIM.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RCIM</div><img src='../images/RCIM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
  
 <p><font face="Times New Roman" size="3"> <b>Geometric design optimization of an under-actuated tendon-driven robotic gripper</b></font></p>  
@@ -80,7 +80,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ASE</div><img src='../images/T-ASE.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ASE</div><img src='../images/T-ASE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>Enabling Robotic Grasp: Object Pose Estimation via Pruned Hough Forest with Combined Split Schemes</b></font></p>  
@@ -91,7 +91,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='../images/RA-L_1.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='../images/RA-L_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>Fast Ellipse Detection for Robotic Manipulation of Cylindrical Objects</b></font></p>  
@@ -102,7 +102,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMT</div><img src='../images/MMT-stable.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMT</div><img src='../images/MMT-stable.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>Enabling grasp action: Generalized quality evaluation of grasp stability via contact stiffness from contact mechanics insight</b></font></p>  
@@ -114,7 +114,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMT</div><img src='../images/MMT-opti.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMT</div><img src='../images/MMT-opti.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>Grasp analysis and optimal design of robotic fingertip for two tendon-driven fingers</b></font></p>  
@@ -126,7 +126,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='../images/PR.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='../images/PR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
  
 <p><font face="Times New Roman" size="3"> <b>Accurate detection of ellipses with false detection control at video rates using a gradient analysis</b></font></p>  
@@ -138,7 +138,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='../images/RA-L_2.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='../images/RA-L_2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>GSG: A Granary Soft Gripper with Mechanical Force Sensing via 3-Dimensional Snap-Through Structure</b></font></p>  
@@ -151,7 +151,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-Mech</div><img src='../images/T-Mech.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-Mech</div><img src='../images/T-Mech.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>Real-time Avoidance Strategy of Dynamic Obstacles via Detection and Tracking with 2D Lidar for Mobile Robot</b></font></p> 
@@ -162,7 +162,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> MMT</div><img src='../images/MMT-screw.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> MMT</div><img src='../images/MMT-screw.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>Repelling-screw-based geometrical interpretation of dualities of compliant mechanisms</b></font></p> 
@@ -174,7 +174,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SORO</div><img src='../images/SR.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SORO</div><img src='../images/SR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>Bio-inspired Amphibious Origami Robot with Body Sensing for Multimodal Locomotion</b></font></p> 
@@ -186,7 +186,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS</div><img src='../images/TITS.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS</div><img src='../images/TITS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>Are object detection assessment criteria ready for maritime computer vision?</b></font></p> 
@@ -198,7 +198,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMT</div><img src='../images/MMT-screw2.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMT</div><img src='../images/MMT-screw2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>A Repelling-Screw-Based Approach for the Construction of Generalized Jacobian Matrices for Nonredundant Parallel Manipulators</b></font></p> 
@@ -212,7 +212,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 ## *Conference papers* &nbsp;
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IROS 2018 </div><img src='../images/IROS_grasp.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IROS 2018 </div><img src='../images/IROS_grasp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>Efficient Pose Estimation from Single RGB-D Image via Hough Forest with Auto-context</b></font></p> 
@@ -224,7 +224,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IROS 2018 - RA-L </div><img src='../images/RA-L_1.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IROS 2018 - RA-L </div><img src='../images/RA-L_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>Fast Ellipse Detection for Robotic Manipulation of Cylindrical Objects</b></font></p> 
@@ -235,7 +235,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> ICIP 2017 </div><img src='../images/ICIP.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> ICIP 2017 </div><img src='../images/ICIP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 <p><font face="Times New Roman" size="3"> <b>Robust Ellipse Detection Via Arc Segmentation and Arc Classification</b></font></p> 
@@ -246,7 +246,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> ICRA 2022 </div><img src='../images/ICRA_grasp.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> ICRA 2022 </div><img src='../images/ICRA_grasp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>Learning-based Ellipse Detection for RoboticGrasps of Cylinders and Ellipsoids</b></font></p> 
@@ -258,7 +258,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> ICRA 2022 </div><img src='../images/ICRA_imu.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> ICRA 2022 </div><img src='../images/ICRA_imu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>Estimation of Upper Limb Kinematics with a Magnetometer-Free Egocentric Visual-Inertial System</b></font></p> 
@@ -277,7 +277,20 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 
 ### -*Current members* &nbsp;
-
+<div class="member-row">
+  <div class="member-column">
+    <img src="https://www.w3schools.com/howto/img_snow.jpg" alt="Snow" style="width:100%">
+    <div class="description">snow</div>
+  </div>
+  <div class="member-column">
+    <img src="https://www.w3schools.com/howto/img_forest.jpg" alt="Forest" style="width:100%">
+    <div class="description">forest</div>
+  </div>
+  <div class="member-column">
+    <img src="https://www.w3schools.com/howto/img_mountains.jpg" alt="Mountains" style="width:100%">
+    <div class="description">mountains</div>
+  </div>
+</div>
 
 
 ### -*Robot buddies* &nbsp;
