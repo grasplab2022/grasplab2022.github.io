@@ -283,6 +283,26 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 ### -*Current members* &nbsp;
 <div class="member-row">
   <div class="member-column">
+    <img src="../images/PI.jpg" alt="Snow" style="width:100%">
+    <div class="description"><p>Huixu Dong, Principle Investigator(PI)</p> <p>Research topic: Robotic perception and grasp</p> </div>
+  </div>
+  <div class="member-column">
+    <img src="../images/jiadong.jpg" alt="Forest" style="width:100%">
+    <div class="description"> <p>Jiadong Zhou, Ph.D. Student, co-advised with Prof.Chen (I-Ming)</p> 
+                              <p>Research topic: Robotic  re-grasp for tyding in cluttered environments</p> 
+                              <p>Email address: jiadong001@e.ntu.edu.sg</p> </div>
+    </div>
+  <div class="member-column">
+    <img src="../images/fengyue.jpg" alt="Mountains" style="width:100%">
+    <div class="description"> <p>Yue Feng, Ph.D. Student, co-advised with Prof.Chen (I-Ming).</p>
+                              <p>Research topic: Human-guided robotic manipulation via virtual reality: Towards rehabilitation</p> 
+                              <p>Email address: yue.feng@ntu.edu.sg</p>
+     </div>
+  </div>
+</div>
+
+<div class="member-row">
+  <div class="member-column">
     <img src="https://www.w3schools.com/howto/img_snow.jpg" alt="Snow" style="width:100%">
     <div class="description">snow</div>
   </div>
