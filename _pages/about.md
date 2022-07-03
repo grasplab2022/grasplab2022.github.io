@@ -309,15 +309,15 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 <div class="member-row">
   <div class="member-column">
     <img src="../images/ur5.jpg" alt="Snow" style="width:100%">
-    <div class="description"><font face="Times New Roman" size="3">UR5</font></div>
+    <div class="description"><font face="Times New Roman" size="3">UR5(Figure from Internet)</font></div>
   </div>
   <div class="member-column">
     <img src="../images/panda.jpg" alt="Forest" style="width:100%">
-    <div class="description"><font face="Times New Roman" size="3">Panda</font></div>
+    <div class="description"><font face="Times New Roman" size="3">Panda(Figure from Internet)</font></div>
   </div>
   <div class="member-column">
     <img src="../images/iiwa.jpg" alt="Mountains" style="width:100%">
-    <div class="description"><font face="Times New Roman" size="3">Iiwa</font></div>
+    <div class="description"><font face="Times New Roman" size="3">Iiwa(Figure from Internet)</font></div>
   </div>
 </div>
 
