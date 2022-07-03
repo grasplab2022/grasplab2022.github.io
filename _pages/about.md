@@ -280,7 +280,8 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 ## *Constructing the Lab* &nbsp;
 
 
-### -*Current members* &nbsp;
+### *Current members* &nbsp;
+
 <div class="member-row">
   <div class="member-column">
     <img src="../images/PI.jpg" alt="Snow" style="width:100%">
@@ -304,7 +305,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 
 
-### -*Robot buddies* &nbsp;
+### *Robot buddies* &nbsp;
 
 <div class="member-row">
   <div class="member-column">
