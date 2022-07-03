@@ -280,7 +280,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 ## *Constructing the Lab* &nbsp;
 
 
-### *-Current members* &nbsp;
+### *&#x2022; Current members* &nbsp;
 
 <div class="member-row">
   <div class="member-column">
