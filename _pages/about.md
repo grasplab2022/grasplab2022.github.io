@@ -49,7 +49,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 # Key Activities
 
-   - *<font face="Times New Roman" size="3"> 2022.Jun 09 </font>*:
+   - <font face="Times New Roman" size="3"> 2022.Jun 09 </font>:
    <li>Associate Editor(AE), IEEE Robotics and Automation Letters (RA-L) (2022 - 2025)<li> 
    <li>Associate Editor(AE), IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS 2022)<li>
 <font face="Times New Roman" size="3"> <p> <li>Associate Editor(AE), IEEE/ASME International Conference on Advanced Intelligent Mechatronics(AIM 2022)<li></p></font>
