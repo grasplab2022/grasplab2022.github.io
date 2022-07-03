@@ -60,7 +60,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 <div class='paper-box-text' markdown="1">
  
 <p><font face="Times New Roman" size="3"> <p style='text-align: justify;'> <b>Real-time Robotic Manipulation of Cylindrical Objects in Dynamic Scenarios through Elliptic Shape Primitives</b></p> </font></p>  
-<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, E. Asadi, G. Sun, D. K. Prasad, I-Ming Chen. </font></p> 
+<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, E. Asadi, G. Sun, D. K. Prasad, IM. Chen. </font></p> 
 <p><font face="Times New Roman" size="3"> <i>IEEE Transactions on Robotics</i>(<b>T-RO Long paper</b>), 2018.</font></p>   
 
 </div>
@@ -77,7 +77,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 <div class='paper-box-text' markdown="1">
  
 <p><font face="Times New Roman" size="3"> <b>Geometric design optimization of an under-actuated tendon-driven robotic gripper</b></font></p>  
-<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, E. Asadi, C. Qiu, J. Dai, and I-Ming Chen.</font></p> 
+<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, E. Asadi, C. Qiu, J. Dai, and IM. Chen.</font></p> 
 <p><font face="Times New Roman" size="3"> <i>Robotics and Computer-Integrated Manufacturing</i>(<b>RCIM</b>), 2017.</font></p>   
 
 </div>
@@ -88,7 +88,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>Enabling Robotic Grasp: Object Pose Estimation via Pruned Hough Forest with Combined Split Schemes</b></font></p>  
-<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, DK Prasad, IM Chen.</font></p> 
+<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, DK Prasad, IM. Chen.</font></p> 
 <p><font face="Times New Roman" size="3"> <i>IEEE Transactions on Automation Science and Engineering</i>(<b>T-ASE</b>), 2020.</font></p>    
   
 </div>
@@ -99,7 +99,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>Fast Ellipse Detection for Robotic Manipulation of Cylindrical Objects</b></font></p>  
-<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, E. Asadi, C. Qiu, J. Dai, and I-Ming Chen.</font></p> 
+<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, E. Asadi, C. Qiu, J. Dai, and IM. Chen.</font></p> 
 <p><font face="Times New Roman" size="3"> <i>IEEE Robotics and Automation Letters</i>(<b>RA-L</b>), 2018.</font></p>      
 
 </div>
@@ -122,7 +122,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>Grasp analysis and optimal design of robotic fingertip for two tendon-driven fingers</b></font></p>  
-<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, E. Asadi, C. Qiu, J. Dai, and I-Ming Chen.</font></p> 
+<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, E. Asadi, C. Qiu, J. Dai, and IM. Chen.</font></p> 
 <p><font face="Times New Roman" size="3"> <i>Mechanism and Machine Theory</i>(<b>MMT</b>), 2018.</font></p>    
   
 </div>
@@ -220,7 +220,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>Efficient Pose Estimation from Single RGB-D Image via Hough Forest with Auto-context</b></font></p> 
-<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, D. K. Prasad, Q.Yuan, J.Zhou, E.Asadi, I-Ming Chen.</font></p> 
+<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, D. K. Prasad, Q.Yuan, J.Zhou, E.Asadi, IM. Chen.</font></p> 
 <p><font face="Times New Roman" size="3"> <i>IEEE/RSJ International Conference on Intelligent Robots and Systems</i>(<b>IROS</b>), 2018.</font></p> 
   
 </div>
@@ -232,7 +232,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>Fast Ellipse Detection for Robotic Manipulation of Cylindrical Objects</b></font></p> 
-<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, G.Sun, W.-C.Pang, E.Asadi, D.K.Prasad, I-Ming Chen</font></p> 
+<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, G.Sun, W.-C.Pang, E.Asadi, D.K.Prasad, IM. Chen</font></p> 
 <p><font face="Times New Roman" size="3"> <i>IEEE/RSJ International Conference on Intelligent Robots and Systems</i>(<b>IROS - RA-L</b>), 2018.</font></p>  
 
 </div>
@@ -243,7 +243,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 <div class='paper-box-text' markdown="1">
   
 <p><font face="Times New Roman" size="3"> <b>Robust Ellipse Detection Via Arc Segmentation and Arc Classification</b></font></p> 
-<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, I-Ming Chen, and D. K. Prasad</font></p> 
+<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, IM. Chen, and D. K. Prasad</font></p> 
 <p><font face="Times New Roman" size="3"> <i>International Conference on Image Processing</i>(<b>ICIP</b>), 2017.</font></p>   
  
 </div>
@@ -254,7 +254,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>Learning-based Ellipse Detection for RoboticGrasps of Cylinders and Ellipsoids</b></font></p> 
-<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, J Zhou, C Qiu, DK Prasad, I-Ming Chen.</font></p> 
+<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, J Zhou, C Qiu, DK Prasad, IM. Chen.</font></p> 
 <p><font face="Times New Roman" size="3"> <i>IEEE International Conference on Robotics and Automation</i>(<b>ICRA</b>), 2022.</font></p>    
   
 </div>
