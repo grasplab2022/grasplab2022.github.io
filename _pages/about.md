@@ -286,7 +286,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
   <div class="member-column">
     <img src="../images/PI.jpg" alt="Snow" style="width:100%">
     <div class="description"><p><font face="Times New Roman" size="3">Huixu Dong, Principle Investigator(PI)</font></p> 
-                             <p><font face="Times New Roman" size="3"> Robotic perception and grasp</font></p> </div>
+                           
   </div>
   <div class="member-column">
     <img src="../images/jiadong.jpg" alt="Forest" style="width:100%">
