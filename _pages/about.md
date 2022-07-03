@@ -306,7 +306,7 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 
 
 
-### *Robot buddies* &nbsp;
+### *&#x2022; Robot buddies* &nbsp;
 
 <div class="member-row">
   <div class="member-column">
