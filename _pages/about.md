@@ -284,40 +284,45 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 <div class="member-row">
   <div class="member-column">
     <img src="../images/PI.jpg" alt="Snow" style="width:100%">
-    <div class="description"><p>Huixu Dong, Principle Investigator(PI)</p> <p>Research topic: Robotic perception and grasp</p> </div>
+    <div class="description"><p><font face="Times New Roman" size="3">Huixu Dong, Principle Investigator(PI)</font></p> 
+                             <p><font face="Times New Roman" size="3"> Robotic perception and grasp</font></p> </div>
   </div>
   <div class="member-column">
     <img src="../images/jiadong.jpg" alt="Forest" style="width:100%">
-    <div class="description"> <p>Jiadong Zhou, Ph.D. Student, co-advised with Prof.Chen (I-Ming)</p> 
-                              <p>Research topic: Robotic  re-grasp for tyding in cluttered environments</p> 
-                              <p>Email address: jiadong001@e.ntu.edu.sg</p> </div>
+    <div class="description"> <p><font face="Times New Roman" size="3">Jiadong Zhou, Ph.D. Student, co-advised with Prof.Chen IM</font></p> 
+                              <p><font face="Times New Roman" size="3">Robotic  re-grasping </font></p> 
+                               </div>
     </div>
   <div class="member-column">
     <img src="../images/fengyue.jpg" alt="Mountains" style="width:100%">
-    <div class="description"> <p>Yue Feng, Ph.D. Student, co-advised with Prof.Chen (I-Ming).</p>
-                              <p>Research topic: Human-guided robotic manipulation via virtual reality: Towards rehabilitation</p> 
-                              <p>Email address: yue.feng@ntu.edu.sg</p>
+    <div class="description"> <p><font face="Times New Roman" size="3">Yue Feng, Ph.D. Student, co-advised with Prof.Chen IM.</font></p>
+                              <p><font face="Times New Roman" size="3">Human-guided robotic manipulation</font></p> 
+                        
      </div>
   </div>
 </div>
 
+
+
+### -*Robot buddies* &nbsp;
+
 <div class="member-row">
   <div class="member-column">
-    <img src="https://www.w3schools.com/howto/img_snow.jpg" alt="Snow" style="width:100%">
-    <div class="description">snow</div>
+    <img src="../images/ur5.jpg" alt="Snow" style="width:100%">
+    <div class="description"><font face="Times New Roman" size="3">UR5</font></div>
   </div>
   <div class="member-column">
-    <img src="https://www.w3schools.com/howto/img_forest.jpg" alt="Forest" style="width:100%">
-    <div class="description">forest</div>
+    <img src="../images/panda.jpg" alt="Forest" style="width:100%">
+    <div class="description"><font face="Times New Roman" size="3">Panda</font></div>
   </div>
   <div class="member-column">
-    <img src="https://www.w3schools.com/howto/img_mountains.jpg" alt="Mountains" style="width:100%">
-    <div class="description">mountains</div>
+    <img src="../images/iiwa.jpg" alt="Mountains" style="width:100%">
+    <div class="description"><font face="Times New Roman" size="3">Iiwa</font></div>
   </div>
 </div>
 
 
-### -*Robot buddies* &nbsp;
+
 
 
 ## *Joining My Group* &nbsp;
