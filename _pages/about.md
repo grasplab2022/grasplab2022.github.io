@@ -61,8 +61,6 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 ## *Journal papers* &nbsp;
   
 
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-RO Long paper</div><img src='../images/T-RO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
  
@@ -279,7 +277,6 @@ I am mainly robotic perception and manipulation, including general-purpose grasp
 </div>
 </div>  
   
-# Projects
 
 
 # Grasp Lab
