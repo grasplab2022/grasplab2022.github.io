@@ -295,8 +295,8 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
     </div>
   <div class="member-column">
     <img src="../images/jiadong.jpg" alt="Forest" style="width:100%">
-    <div class="description"> <p><font face="Times New Roman" size="3">Jiadong Zhou, Ph.D. Student at RRC of NTU(Singapore), co-advised with Prof.Chen IM</font></p> 
-                              <p><font face="Times New Roman" size="3">Robotic  re-grasping </font></p> 
+    <div class="description"> <font face="Times New Roman" size="3"><p>Jiadong Zhou, Ph.D. Student</p><p>at RRC of NTU(Singapore),</p><p> co-advised with Prof.Chen IM</p> <p>Robotic  re-grasping<p> </font> 
+                              
                                </div>
     </div>
   <div class="member-column">
