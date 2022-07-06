@@ -286,28 +286,31 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
 ### *&#x2022; Current members* &nbsp;
 
+
 <div class="member-row">
   <div class="member-column">
-     <img src="../images/PI.jpg" alt="Snow" style="width:100%">
-     <div class="description"><p><font face="Times New Roman" size="3">Huixu Dong, Principle Investigator(PI)</font></p> 
-     </div>                
-  </div>
-  
+    <img src="../images/PI.jpg" alt="Snow" style="width:100%">
+    <div class="description"><p><font face="Times New Roman" size="3">Huixu Dong, Principle Investigator(PI)</font></p> 
+                              </div>
+                           
+    </div>
   <div class="member-column">
-     <img src="../images/jiadong.jpg" alt="Forest" style="width:100%">
-     <div class="description"> <p><font face="Times New Roman" size="3">Jiadong Zhou, Ph.D. Student at RRC of NTU(Singapore), co-advised with Prof.Chen IM </font></p> 
-                               <p><font face="Times New Roman" size="3"> Robotic  re-grasping </font><p>
-     </div>
-  </div>
-  
+    <img src="../images/jiadong.jpg" alt="Forest" style="width:100%">
+    <div class="description"> <p><font face="Times New Roman" size="3">Jiadong Zhou, Ph.D. Student at RRC of NTU(Singapore),</font></p>
+                              <p><font face="Times New Roman" size="3"> co-advised with Prof.Chen IM</font></p>
+                              <p><font face="Times New Roman" size="3">Robotic  re-grasping </font></p> 
+                               </div>
+    </div>
   <div class="member-column">
-     <img src="../images/fengyue.jpg" alt="Mountains" style="width:100%">
-     <div class="description"> <p><font face="Times New Roman" size="3">Yue Feng, Ph.D. Student at RRC of NTU(Singapore), co-advised with Prof.Chen IM.</font></p>
+    <img src="../images/fengyue.jpg" alt="Mountains" style="width:100%">
+    <div class="description"> <p><font face="Times New Roman" size="3">Yue Feng, Ph.D. Student at RRC of NTU(Singapore), </font></p>
+                              <p><font face="Times New Roman" size="3"> co-advised with Prof.Chen IM.</font></p>
                               <p><font face="Times New Roman" size="3">Human-guided robotic manipulation</font></p> 
-                              
+                        
      </div>
   </div>
 </div>
+
 
 
 
