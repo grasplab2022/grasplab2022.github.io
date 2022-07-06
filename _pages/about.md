@@ -303,6 +303,7 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
   <div class="member-column">
     <img src="../images/fengyue.jpg" alt="Mountains" style="width:100%">
     <div class="description"> <p><font face="Times New Roman" size="3">Yue Feng, Ph.D. Student, co-advised with Prof.Chen IM.</font></p>
+                              <p><font face="Times New Roman" size="3">at RRC of NTU, Singapore.</font></p>
                               <p><font face="Times New Roman" size="3">Human-guided robotic manipulation</font></p> 
                         
      </div>
