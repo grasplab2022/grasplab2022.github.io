@@ -32,6 +32,9 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
 # News 
 
+
+ - *<font face="Times New Roman" size="3"> 2022.July 7 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on learning-based robotic Manipulations of Cylinders and Ellipsoids  was accepted by IEEE/ASME Transactions on Mechatronics (<b>T-Mech</b>). </font>
+
  - *<font face="Times New Roman" size="3"> 2022.Jun 30 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on the construction of a compliant gripper was accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS 2022</b>). </font>
 
  - *<font face="Times New Roman" size="3"> 2022.Jun 30 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on the construction of a parallel gripper was accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS 2022</b>). </font>
