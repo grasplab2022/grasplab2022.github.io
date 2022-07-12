@@ -189,7 +189,7 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>Repelling-screw-based geometrical interpretation of dualities of compliant mechanisms</b></font></p> 
-<p><font face="Times New Roman" size="3"> <b>H. Dong</b>,  K Wang, C Chen, IM Chen, J Dai.</font></p> 
+<p><font face="Times New Roman" size="3"> <b>H. Dong</b>,  K Wang, C Qiu, IM Chen, J Dai.</font></p> 
 <p><font face="Times New Roman" size="3"> <i>Mechanism and Machine Theory</i>(<b>MMT</b>), 2021.</font></p>
   
 </div>
