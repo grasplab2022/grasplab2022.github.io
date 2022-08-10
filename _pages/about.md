@@ -104,6 +104,22 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-Mech</div><img src='../images/tmech-3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<p><font face="Times New Roman" size="3"> <b>Construction of Interaction Parallel Manipulator: Towards Rehabilitation Massage</b></font></p>  
+<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, Y. Feng, Q. Chen, IM. Chen.</font></p> 
+<p><font face="Times New Roman" size="3"> <i>IEEE/ASME Transactions on Mechatronics</i>(<b>T-ASE</b>), 2020.</font></p>    
+  
+</div>
+</div>
+
+
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='../images/RA-L_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
