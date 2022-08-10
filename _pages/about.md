@@ -32,7 +32,7 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
 # News 
 
- - *<font face="Times New Roman" size="3"> 2022.August 10 </font>*: &nbsp; <font face="Times New Roman" size="3"  color= red> A paper on a massaga robotic manipulator  was accepted by IEEE/ASME Transactions on Mechatronics (<b>T-Mech</b>). </font>
+ - *<font face="Times New Roman" size="3"> 2022.August 10 </font>*: &nbsp; <font face="Times New Roman" size="3"  color= red> A paper on a massage robotic manipulator  was accepted by IEEE/ASME Transactions on Mechatronics (<b>T-Mech</b>). </font>
 
  - *<font face="Times New Roman" size="3"> 2022.July 7 </font>*: &nbsp; <font face="Times New Roman" size="3"  color= red> A paper on learning-based robotic manipulations  was accepted by IEEE/ASME Transactions on Mechatronics (<b>T-Mech</b>). </font>
 
