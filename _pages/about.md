@@ -32,12 +32,13 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
 # News 
 
+ - *<font face="Times New Roman" size="3"> 2022.August 10 </font>*: &nbsp; <font face="Times New Roman" size="3"  color= red> A paper on a massaga robotic manipulator  was accepted by IEEE/ASME Transactions on Mechatronics (<b>T-Mech</b>). </font>
 
  - *<font face="Times New Roman" size="3"> 2022.July 7 </font>*: &nbsp; <font face="Times New Roman" size="3"  color= red> A paper on learning-based robotic manipulations  was accepted by IEEE/ASME Transactions on Mechatronics (<b>T-Mech</b>). </font>
 
- - *<font face="Times New Roman" size="3"> 2022.Jun 30 </font>*: &nbsp; <font face="Times New Roman" size="3"  color= red> A paper on the construction of a compliant gripper was accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS 2022</b>). </font>
+ - *<font face="Times New Roman" size="3"> 2022.Jun 30 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on the construction of a compliant gripper was accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS 2022</b>). </font>
 
- - *<font face="Times New Roman" size="3"> 2022.Jun 30 </font>*: &nbsp; <font face="Times New Roman" size="3"  color= red> A paper on the construction of a parallel gripper was accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS 2022</b>). </font>
+ - *<font face="Times New Roman" size="3"> 2022.Jun 30 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on the construction of a parallel gripper was accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS 2022</b>). </font>
 
 - *<font face="Times New Roman" size="3" > 2022.Jun 15 </font>*:  &nbsp; <font face="Times New Roman" size="3" > I have opened multiple fully-funded PostDoc, research associate (master's degree) and research officer (Bachelor's degree) positions in robotic perception and grasp.</font> <font color= red> 欢迎具有机械电子、计算机、数学，控制、电子、力学、材料、生物、物理，化学等背景的博士后，博士，硕士、本科生加入机器人感知与抓取实验室, 感兴趣的同学请发邮件。</font>
    
