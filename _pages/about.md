@@ -310,7 +310,7 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
   
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IROS 2022 - RA-L </div><img src='../images/IROS_parallel.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IROS 2022 </div><img src='../images/IROS_parallel.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>Enabling Massage Actions : A n Interactive Parallel Robot with Compliant Joints</b></font></p> 
@@ -321,7 +321,7 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IROS 2022 </div><img src='../images/IROS_soft.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IROS 2022 - RA-L </div><img src='../images/IROS_soft.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>GSG: A Granary-shaped Soft Gripper with Mechanical Sensing via Snap-Through Structure</b></font></p> 
