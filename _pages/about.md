@@ -54,11 +54,11 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
 
 # Key Activities
-
+   - <font face="Times New Roman" size="3"> Associate Editor(AE), IEEE Transactions on Automation Science and Engineering (T-ASE) (2024 - 2026) </font>
    - <font face="Times New Roman" size="3"> Associate Editor(AE), IEEE Robotics and Automation Letters (RA-L) (2022 - 2025) </font>
-   - <font face="Times New Roman" size="3"> Associate Editor(AE), IEEE International Conference on Robotics and Automation (ICRA 2023)  </font>
-   - <font face="Times New Roman" size="3"> Associate Editor(AE), IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS 2022) </font>
-   - <font face="Times New Roman" size="3"> Associate Editor(AE), IEEE/ASME International Conference on Advanced Intelligent Mechatronics(AIM 2022) </font>
+   - <font face="Times New Roman" size="3"> Associate Editor(AE), IEEE International Conference on Robotics and Automation (ICRA 2023/2024)  </font>
+   - <font face="Times New Roman" size="3"> Associate Editor(AE), IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS 2022/2023/2024) </font>
+   - <font face="Times New Roman" size="3"> Associate Editor(AE), IEEE/ASME International Conference on Advanced Intelligent Mechatronics(AIM 2022/2023/2024) </font>
    - <font face="Times New Roman" size="3"> Member of T-Mech Junior Reviewers Program (TJRP), IEEE/ASME Transactions on Mechatronics(T-Mech 2021-2023) </font>
 
 
@@ -77,10 +77,6 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
 </div>
 </div>
-
-
-
-
 
 
 
@@ -251,6 +247,17 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 </div>
 </div>
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ASE</div><img src='../images/T-ASE2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<p><font face="Times New Roman" size="3"> <b>Robotic Grasps of Cylindrical and Cubic Objects via Real-Time Learning-based Shape Detection</b></font></p>  
+<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, J. Zhou, H. Yu.</font></p> 
+<p><font face="Times New Roman" size="3"> <i>IEEE Transactions on Automation Science and Engineering</i>(<b>T-ASE</b>), 2024.</font></p>    
+  
+</div>
+</div>
 
 
 ## *Conference papers* &nbsp;
