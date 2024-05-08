@@ -260,6 +260,47 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 </div>
 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ASE</div><img src='../images/T-ASE2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<p><font face="Times New Roman" size="3"> <b>Robotic Grasps of Cylindrical and Cubic Objects via Real-Time Learning-based Shape Detection</b></font></p>  
+<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, J. Zhou, H. Yu.</font></p> 
+<p><font face="Times New Roman" size="3"> <i>IEEE Transactions on Automation Science and Engineering</i>(<b>T-ASE</b>), 2024.</font></p>    
+  
+</div>
+</div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ASE</div><img src='../images/T-ASE2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<p><font face="Times New Roman" size="3"> <b>Robotic Grasps of Cylindrical and Cubic Objects via Real-Time Learning-based Shape Detection</b></font></p>  
+<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, J. Zhou, H. Yu.</font></p> 
+<p><font face="Times New Roman" size="3"> <i>IEEE Transactions on Automation Science and Engineering</i>(<b>T-ASE</b>), 2024.</font></p>    
+  
+</div>
+</div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ASE</div><img src='../images/T-ASE2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<p><font face="Times New Roman" size="3"> <b>Robotic Grasps of Cylindrical and Cubic Objects via Real-Time Learning-based Shape Detection</b></font></p>  
+<p><font face="Times New Roman" size="3"> <b>H. Dong</b>, J. Zhou, H. Yu.</font></p> 
+<p><font face="Times New Roman" size="3"> <i>IEEE Transactions on Automation Science and Engineering</i>(<b>T-ASE</b>), 2024.</font></p>    
+  
+</div>
+</div>
+
+
+
+
+
 ## *Conference papers* &nbsp;
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IROS 2018 </div><img src='../images/IROS_grasp.png' alt="sym" width="100%"></div></div>
