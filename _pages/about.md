@@ -1,5 +1,4 @@
-![image](https://github.com/grasplab2022/grasplab2022.github.io/assets/108282091/c24f5bdb-33ca-4a28-998b-333893dd3fd8)---
-permalink: /
+
 title: ""
 excerpt: ""
 author_profile: true
