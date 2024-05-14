@@ -20,7 +20,7 @@ redirect_from:
 
 # About Me 
 <font face="Times New Roman" size="3"> <p style='text-align: justify;'>
-From 2022, Huixu Dong is a “New Hundred-Talent Program” faculty (浙江大学“新百人计划研究员”/博导) in the Department of Mechanical Engineering at Zhejiang University, and the Director of Robotic Perception and Grasp Lab (RPGL) or Grasp Lab(GL) in short, and Dr.Dong obtained the title "Outstanding Overseas Youth"(国家高层次人才"海外优青"). I received the B.Sc degree in Mechatronics Engineering from Harbin Institute of Technology (HIT) in 2013 and obtained Ph.D. degree at Robotics Research Centre (RRC) of Nanyang Technological University (NTU) Singapore in 2018 advised by Prof.I-Ming Chen. Before joining Zhejiang University, I was a post-doctoral fellow of Robotics Institute (RI) at Carnegie Mellon University (CMU) and National University of Singapore (NUS). 
+From 2022, Huixu Dong is a “New Hundred-Talent Program” faculty (浙江大学新百人计划研究员/博导) in the Department of Mechanical Engineering at Zhejiang University, and the Director of Robotic Perception and Grasp Lab (RPGL) or Grasp Lab(GL) in short, and Dr.Dong obtained the title "Outstanding Overseas Youth"(国家高层次人才"海外优青"). I received the B.Sc degree in Mechatronics Engineering from Harbin Institute of Technology (HIT) in 2013 and obtained Ph.D. degree at Robotics Research Centre (RRC) of Nanyang Technological University (NTU) Singapore in 2018 advised by Prof.I-Ming Chen. Before joining Zhejiang University, I was a post-doctoral fellow of Robotics Institute (RI) at Carnegie Mellon University (CMU) and National University of Singapore (NUS). 
 </p></font>
 
 
@@ -34,21 +34,9 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
  - *<font face="Times New Roman" size="3"> 2022.September 7 </font>*: &nbsp; <font face="Times New Roman" size="3"  color= red> Dr.Huixu Dong  was selected as an Associate Editor of  IEEE International Conference on Robotics and Automation (<b>ICRA 2023</b>). </font>
  
- - *<font face="Times New Roman" size="3"> 2022.August 10 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on a massage robotic manipulator  was accepted by IEEE/ASME Transactions on Mechatronics (<b>T-Mech</b>). </font>
-
- - *<font face="Times New Roman" size="3"> 2022.July 7 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on learning-based robotic manipulations  was accepted by IEEE/ASME Transactions on Mechatronics (<b>T-Mech</b>). </font>
-
- - *<font face="Times New Roman" size="3"> 2022.Jun 30 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on the construction of a compliant gripper was accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS 2022</b>). </font>
-
- - *<font face="Times New Roman" size="3"> 2022.Jun 30 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on the construction of a parallel gripper was accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS 2022</b>). </font>
 
 - *<font face="Times New Roman" size="3" > 2022.Jun 15 </font>*:  &nbsp; <font face="Times New Roman" size="3" > I have opened multiple fully-funded PostDoc, research associate (master's degree) and research officer (Bachelor's degree) positions in robotic perception and grasp.</font> <font color= red> 欢迎具有机械电子、计算机、数学，控制、电子、力学、材料、生物、物理，化学等背景的博士后，博士，硕士、做毕业设计的本科生，计划出国读书的本科生等加入机器人感知与抓取实验室, 感兴趣的同学请发邮件。</font>
    
-
- - *<font face="Times New Roman" size="3"> 2022.Jun 10 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on the construction of a soft gripper was accepted by IEEE Robotics and Automation Letters (<b>RA-L</b>). </font>
- 
- - *<font face="Times New Roman" size="3"> 2022.Jun 09 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on the theory of nonredundant parallel manipulators was accepted by Mechanism and Machine Theory (<b>MMT</b>). </font>
-  
 
  - *<font face="Times New Roman" size="3"> 2022.Jun </font>*: &nbsp; <font face="Times New Roman" size="3" > After a 9-year wonderful and unforgettable time in Singapore and United States, I joined Zhejiang University ME to start my academic faculty journey.</font> 
 
@@ -313,7 +301,7 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='../images/R-AL6.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='../images/RA-L6.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>Theoretical Model Construction of Deformation-Force for Soft Grippers Part II: Displacement Control Based Intrinsic Force Sensing</b></font></p>  
