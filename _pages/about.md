@@ -264,59 +264,6 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
 
 
-
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='../images/T-mech3.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<p><font face="Times New Roman" size="3"> <b>Under-actuated Robotic Gripper with Multiple Grasping Modes Inspired by Human Finger</b></font></p>  
-<p><font face="Times New Roman" size="3"> J Li, T Liao, H Nigatu, H Guo, G Lu, <b>H. Dong<b></font></p> 
-<p><font face="Times New Roman" size="3"> <i>arXiv preprint arXiv:2403.12502</i>(<b>arXiv</b>), 2024.</font></p>    
-  
-</div>
-</div>
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='../images/R-AL5.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<p><font face="Times New Roman" size="3"> <b>Theoretical Model Construction of Deformation-Force for Soft Grippers Part I: Co-rotational Modeling and Force Control for Design Optimization</b></font></p>  
-<p><font face="Times New Roman" size="3"> <b>H Dong<b>, H Guo, S Yang, C Qiu, J Dai, I Chen</font></p> 
-<p><font face="Times New Roman" size="3"> <i>arXiv preprint arXiv:2303.12987</i>(<b>arXiv</b>), 2024.</font></p>    
-  
-</div>
-</div>
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='../images/RA-L6.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<p><font face="Times New Roman" size="3"> <b>Theoretical Model Construction of Deformation-Force for Soft Grippers Part II: Displacement Control Based Intrinsic Force Sensing</b></font></p>  
-<p><font face="Times New Roman" size="3"> <b>H Dong<b>, Z Zheng, H Guo, S Yang, C Qiu, J Dai, I Chen</font></p> 
-<p><font face="Times New Roman" size="3"> <i>arXiv preprint arXiv:2303.12418</i>(<b>arXiv</b>), 2024.</font></p>    
-  
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='../images/R-AL7.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<p><font face="Times New Roman" size="3"> <b>Unveiling the Complete Variant of Spherical Robots</b></font></p>  
-<p><font face="Times New Roman" size="3"> H Nigatu, L Jihao, G Shi, G Lu, <b>H Dong<b></font></p> 
-<p><font face="Times New Roman" size="3"> <i>arXiv preprint arXiv:2403.03505</i>(<b>arXiv</b>), 2024.</font></p>    
-  
-</div>
-</div>
-
-
 ## *Conference papers* &nbsp;
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IROS 2018 </div><img src='../images/IROS_grasp.png' alt="sym" width="100%"></div></div>
