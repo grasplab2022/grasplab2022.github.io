@@ -283,6 +283,21 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
 ## *Conference papers* &nbsp;
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> RSS 2024 </div><img src='../images/RSS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<p><font face="Times New Roman" size="3"> <b>Construction of a Multiple-DOF Underactuated Gripper with Force-Sensing via Deep Learning</b></font></p> 
+<p><font face="Times New Roman" size="3"> Jihao Li, Keqi Zhu, Guodong Lu, I-Ming Chen, <b>H. Dong</b></font></p> 
+<p><font face="Times New Roman" size="3"> <i>Robotics: Science and Systems · A Robotics Conference</i>(<b>RSS</b>), 2024.</font></p>    
+  
+</div>
+</div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IROS 2018 </div><img src='../images/IROS_grasp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -363,15 +378,6 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> RSS 2024 </div><img src='../images/RSS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<p><font face="Times New Roman" size="3"> <b>Construction of a Multiple-DOF Underactuated Gripper with Force-Sensing via Deep Learning</b></font></p> 
-<p><font face="Times New Roman" size="3"> Jihao Li, Keqi Zhu, Guodong Lu, I-Ming Chen, <b>H. Dong</b></font></p> 
-<p><font face="Times New Roman" size="3"> <i>Robotics: Science and Systems · A Robotics Conference</i>(<b>RSS</b>), 2024.</font></p>    
-  
-</div>
-</div>
 
 
 
