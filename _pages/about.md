@@ -101,7 +101,7 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>Theoretical Model Construction of Deformation-Force for Soft Grippers Part I: Co-rotational Modeling and Force Control for Design Optimization</b></font></p>  
-<p><font face="Times New Roman" size="3"> <b>H Dong<b>, H Guo, S Yang, C Qiu, J Dai, I Chen.</font></p> 
+<p><font face="Times New Roman" size="3"> <b>H Dong</b>b>, H Guo, S Yang, C Qiu, J Dai, I Chen.</font></p> 
 <p><font face="Times New Roman" size="3"> <i>arXiv preprint arXiv:2303.12987</i>(<b>arXiv</b>), 2024.</font></p>    
   
 </div>
