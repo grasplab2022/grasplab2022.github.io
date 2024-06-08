@@ -56,6 +56,30 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 # Publications 
 
 ## *Journal papers* &nbsp;
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='../images/T-RO2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<p><font face="Times New Roman" size="3"> <b>Bin Packing Optimization via Deep Reinforcement Learning</b></font></p>  
+<p><font face="Times New Roman" size="3"> B. Wang, <b>H. Dong</b> </font></p> 
+<p><font face="Times New Roman" size="3"> <i>arXiv preprint arXiv:2403.12420</i>(<b>arXiv</b>), 2024.</font></p>    
+  
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='../images/T-RO3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<p><font face="Times New Roman" size="3"> <b>Discretizing SO (2)-Equivariant Features for Robotic Kitting</b></font></p>  
+<p><font face="Times New Roman" size="3"> J Zhou, Y Zeng, <b>H Dong<b>, I Chen </font></p> 
+<p><font face="Times New Roman" size="3"> <i>arXiv preprint arXiv:2403.13336</i>(<b>arXiv</b>), 2024.</font></p>    
+  
+</div>
+</div>
+
   
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-RO Long paper</div><img src='../images/T-RO.png' alt="sym" width="100%"></div></div>
@@ -251,27 +275,7 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='../images/T-RO2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-<p><font face="Times New Roman" size="3"> <b>Bin Packing Optimization via Deep Reinforcement Learning</b></font></p>  
-<p><font face="Times New Roman" size="3"> B. Wang, <b>H. Dong</b> </font></p> 
-<p><font face="Times New Roman" size="3"> <i>arXiv preprint arXiv:2403.12420</i>(<b>arXiv</b>), 2024.</font></p>    
-  
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='../images/T-RO3.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<p><font face="Times New Roman" size="3"> <b>Bin Packing Optimization via Deep Reinforcement Learning</b></font></p>  
-<p><font face="Times New Roman" size="3"> B. Wang, <b>H. Dong</b> </font></p> 
-<p><font face="Times New Roman" size="3"> <i>arXiv preprint arXiv:2403.12420</i>(<b>arXiv</b>), 2024.</font></p>    
-  
-</div>
-</div>
 
 
 
