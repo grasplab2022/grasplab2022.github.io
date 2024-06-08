@@ -36,9 +36,9 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
  - *<font face="Times New Roman" size="3"> 2024.May 14 </font>*: &nbsp; <font face="Times New Roman" size="3"  color= red> A paper is accepted by Robotics: Science and Systems (<b>RSS 2024</b>). Congratulations to Jihao and Keqi. </font>
  
-- *<font face="Times New Roman" size="3" > 2024.May 10 </font>*:  &nbsp; <font face="Times New Roman" size="3" > My students Yicheng  and Yanwen  recieved  offers from Imperial College and UC Berkeley, respectively.</font> <font color= red> Yicheng 收到了英国帝国理工的Offer， Yanwen 收到了美国加州伯克利大学的Offer。</font>
+- *<font face="Times New Roman" size="3" > 2024.May 10 </font>*:  &nbsp; <font face="Times New Roman" size="3" > My students Yicheng  and Yanwen  recieved  offers from Imperial College and UC Berkeley, respectively.</font>  Yicheng 收到了英国帝国理工的Offer， Yanwen 收到了美国加州伯克利大学的Offer。
 
-- *<font face="Times New Roman" size="3" > 2023.Jun 1 </font>*:  &nbsp; <font face="Times New Roman" size="3" > In the 2023 "Jingdiao Cup" National University Graduation Design Competition, Ziyi won the individual gold medal (the only one nationwide), Keqi won the individual silver medal (ranked 2-9 nationwide) and also the Best Popularity Award, and Zhaohui won the first prize in the Eastern Region.</font> <font color= red> 2023年度“精雕杯”全国大学生本科毕业设计大赛中，Ziyi荣获个人金奖（全国唯一），Keqi荣获个人银奖（全国排名2-9）并且荣获最佳人气奖，Zhaohui荣获东区一等奖。</font>
+- *<font face="Times New Roman" size="3" > 2023.Jun 1 </font>*:  &nbsp; <font face="Times New Roman" size="3" > In the 2023 "Jingdiao Cup" National University Graduation Design Competition, Ziyi won the individual gold medal (the only one nationwide), Keqi won the individual silver medal (ranked 2-9 nationwide) and also the Best Popularity Award, and Zhaohui won the first prize in the Eastern Region.</font>  2023年度“精雕杯”全国大学生本科毕业设计大赛中，Ziyi荣获个人金奖（全国唯一），Keqi荣获个人银奖（全国排名2-9）并且荣获最佳人气奖，Zhaohui荣获东区一等奖。
 
  - *<font face="Times New Roman" size="3" > 2022.Jun 15 </font>*:  &nbsp; <font face="Times New Roman" size="3" > I have opened multiple fully-funded PostDoc, research associate (master's degree) and research officer (Bachelor's degree) positions in robotic perception and grasp.</font> <font color= red> 欢迎具有机械电子、计算机、数学，控制、电子、力学、材料、生物、物理，化学等背景的博士后，博士，硕士、做毕业设计的本科生，计划出国读书的本科生等加入机器人感知与抓取实验室, 感兴趣的同学请发邮件。</font>
    
