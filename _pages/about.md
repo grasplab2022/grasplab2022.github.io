@@ -65,7 +65,7 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>Bin Packing Optimization via Deep Reinforcement Learning</b></font></p>  
-<p><font face="Times New Roman" size="3"> B. Wang, <b>H. Dong</b> </font></p> 
+<p><font face="Times New Roman" size="3"> B. Wang, <b>H. Dong</b>. </font></p> 
 <p><font face="Times New Roman" size="3"> <i>arXiv preprint arXiv:2403.12420</i>(<b>arXiv</b>), 2024.</font></p>    
   
 </div>
@@ -77,7 +77,7 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>Discretizing SO (2)-Equivariant Features for Robotic Kitting</b></font></p>  
-<p><font face="Times New Roman" size="3"> J. Zhou, Y. Zeng,  <b>H. Dong</b>, IM. Chen </font></p> 
+<p><font face="Times New Roman" size="3"> J. Zhou, Y. Zeng,  <b>H. Dong</b>, IM. Chen. </font></p> 
 <p><font face="Times New Roman" size="3"> <i>arXiv preprint arXiv:2403.13336</i>(<b>arXiv</b>), 2024.</font></p>      
   
 </div>
@@ -89,7 +89,7 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>Under-actuated Robotic Gripper with Multiple Grasping Modes Inspired by Human Finger</b></font></p>  
-<p><font face="Times New Roman" size="3"> J Li, T Liao, H Nigatu, H Guo, G Lu, H. Dong.</font></p> 
+<p><font face="Times New Roman" size="3"> J Li, T Liao, H Nigatu, H Guo, G Lu, <b>H. Dong</b>.</font></p> 
 <p><font face="Times New Roman" size="3"> <i>arXiv preprint arXiv:2403.12502</i>(<b>arXiv</b>), 2024.</font></p>    
   
 </div>
