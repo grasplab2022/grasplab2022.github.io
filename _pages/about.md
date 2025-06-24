@@ -34,7 +34,11 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
 # News 
 
- - *<font face="Times New Roman" size="3"> 2024.Dec 23 </font>*: &nbsp; <font face="Times New Roman" size="3" > After almost three-year period, one of our work is accepted IEEE Transactions on Automation Science and Engineering (<b>IEEE T-ASE</b>). Congratulations to Jiadong. </font>
+ - *<font face="Times New Roman" size="3"> 2025.June 6 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper is accepted by IEEE Robotics and Automation Letters (<b>IEEE RA-L </b>). Congratulations to Zhian, Yicheng, Haotian. </font>
+
+ - *<font face="Times New Roman" size="3"> 2025.Jan 2 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper is accepted by IEEE Robotics and Automation Letters (<b>IEEE RA-L </b>). Congratulations to Baoying, Zhaohui, Weijie. </font>
+
+ - *<font face="Times New Roman" size="3"> 2024.Dec 23 </font>*: &nbsp; <font face="Times New Roman" size="3" > After almost three-year period, one of our work is accepted by IEEE Transactions on Automation Science and Engineering (<b>IEEE T-ASE</b>). Congratulations to Jiadong. </font>
 
  - *<font face="Times New Roman" size="3"> 2024.June 30 </font>*: &nbsp; <font face="Times New Roman" size="3" > Three papers on robotic perception and grasp are accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS 2024</b>). Congratulations to Jiadong, Jihao, Keqi, Haotian. </font>
 
