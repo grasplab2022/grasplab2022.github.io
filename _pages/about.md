@@ -34,18 +34,23 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
 # News 
 
- - *<font face="Times New Roman" size="3"> 2025.June 6 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper is accepted by IEEE Robotics and Automation Letters (<b>IEEE RA-L </b>). Congratulations to Zhian, Yicheng, Haotian. </font>
+ - *<font face="Times New Roman" size="3"> 2025.June 6 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on robotic gripper is accepted by IEEE Robotics and Automation Letters (<b>IEEE RA-L </b>). Congratulations to Zhian, Yicheng, Haotian. </font>
 
-  - *<font face="Times New Roman" size="3"> 2025.May 31 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> Congratulations! This is truly outstanding news—please extend my warmest congratulations to my student Haotian who received the full P.h.D scholarship from King's College London(The Highest-Value Scholarship in the UK). </font> Haotian在诸多竞争者中脱颖而出，拿到了英国国王大学（G5）的最高博士全额奖学金。
+  - *<font face="Times New Roman" size="3"> 2025.May 31 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> Congratulations! This is truly outstanding news—please extend my warmest congratulations to my student Haotian who received the full P.h.D scholarship from King's College London(The Highest-Value Scholarship in the UK). </font> 恭喜我的学生Haotian在诸多竞争者中脱颖而出，拿到了英国国王大学（G5）的最高博士全额奖学金。
 
+  - *<font face="Times New Roman" size="3"> 2025.May 31 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> Congratulations! This is truly outstanding news—please extend my warmest congratulations to my students Xidan and Zhaohui who have won the championship in the In-Hand Manipulation track of the 10th Robotic Grasping and Manipulation Competition at ICRA 2025 in Atlanta, USA. </font> 我的学生Xidan 和Zhaohui 获得了美国亚特兰大ICRA2025 第十届机器人抓取与操作大赛：灵巧手内操作赛道决赛的冠军。
+    
+  - *<font face="Times New Roman" size="3"> 2025.May 31 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> Congratulations! This is truly outstanding news—please extend my warmest congratulations to my students Yuwei and Xidan who have won second place in the Picking in Clutter track of the 10th Robotic Grasping and Manipulation Competition at ICRA 2025 in Atlanta, USA. </font> 恭喜我的学生Yuwei和Xidan获得了美国亚特兰大ICRA2025 第十届机器人抓取与操作大赛：机器人抓取赛道决赛的亚军。
 
-  - *<font face="Times New Roman" size="3"> 2025.May 17 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper is accepted by Soft Robotics (<b>Soft Robotics </b>). Congratulations to Haotian, Wuhao, Yanzhe. </font> 
+  - *<font face="Times New Roman" size="3"> 2025.May 31 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> Congratulations! This is truly outstanding news—please extend my warmest congratulations to my students Zhian and Weijie who have won second place in the Simulation-Sorting Manipulation track of the 10th Robotic Grasping and Manipulation Competition at ICRA 2025 in Atlanta, USA. </font> 恭喜我的学生Yuwei和Xidan获得了美国亚特兰大ICRA2025 第十届机器人抓取与操作大赛：机器人操作仿真赛道决赛的亚军。
 
-  - *<font face="Times New Roman" size="3"> 2025.April 15 </font>*: &nbsp; <font face="Times New Roman" size="3" > My student Hao Wu  recieved an offer from University of Pennsylvania. </font>    Hao Wu 收到了美国宾夕法尼亚大学的Offer。
+  - *<font face="Times New Roman" size="3"> 2025.May 17 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on robotic gripper is accepted by Soft Robotics (<b>Soft Robotics </b>). Congratulations to Haotian, Wuhao, Yanzhe. </font> 
+
+  - *<font face="Times New Roman" size="3"> 2025.April 15 </font>*: &nbsp; <font face="Times New Roman" size="3" > My student Hao Wu recieved an offer from University of Pennsylvania. </font> 恭喜我的学生Hao Wu 收到了美国宾夕法尼亚大学的Offer。
   
- - *<font face="Times New Roman" size="3"> 2025.Jan 2 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper is accepted by IEEE Robotics and Automation Letters (<b>IEEE RA-L </b>). Congratulations to Baoying, Zhaohui, Weijie. </font>
+ - *<font face="Times New Roman" size="3"> 2025.Jan 2 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on robotic packaging is accepted by IEEE Robotics and Automation Letters (<b>IEEE RA-L </b>). Congratulations to Baoying, Zhaohui, Weijie. </font>
 
- - *<font face="Times New Roman" size="3"> 2024.Dec 23 </font>*: &nbsp; <font face="Times New Roman" size="3" > After almost three-year period, one of our work is accepted by IEEE Transactions on Automation Science and Engineering (<b>IEEE T-ASE</b>). Congratulations to Jiadong. </font>
+ - *<font face="Times New Roman" size="3"> 2024.Dec 23 </font>*: &nbsp; <font face="Times New Roman" size="3" > After almost three-year period, one of our work on robotic grasping is accepted by IEEE Transactions on Automation Science and Engineering (<b>IEEE T-ASE</b>). Congratulations to Jiadong. </font>
 
  - *<font face="Times New Roman" size="3"> 2024.June 30 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on robotic kitting is accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS 2024</b>). Congratulations to Jiadong. </font>
 
