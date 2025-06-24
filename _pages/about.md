@@ -36,14 +36,15 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
  - *<font face="Times New Roman" size="3"> 2025.June 6 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper is accepted by IEEE Robotics and Automation Letters (<b>IEEE RA-L </b>). Congratulations to Zhian, Yicheng, Haotian. </font>
 
-  - *<font face="Times New Roman" size="3"> 2025.May 31 </font>*: &nbsp; <font face="Times New Roman" size="3" > My student Haotian recieved a full-scholarship P.h.D offer from King's College London with the highest . Congratulations to  Haotian. </font>
-
   - *<font face="Times New Roman" size="3"> 2025.May 31 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> Congratulations! This is truly outstanding news—please extend my warmest congratulations to my student Haotian who received the full P.h.D scholarship from King's College London(The Highest-Value Scholarship in the UK). </font>
 
+    - *<font face="Times New Roman" size="3"> 2025.May 31 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> Congratulations! This is truly outstanding news—please extend my warmest congratulations to my student Haotian who received the full P.h.D scholarship from King's College London(The Highest-Value Scholarship in the UK). </font>  Haotian在诸多竞争者中脱颖而出，拿到了英国国王大学（G5）的最高博士全额奖学金。
 
 
-  - *<font face="Times New Roman" size="3"> 2025.May 17 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper is accepted by Soft Robotics (<b>Soft Robotics </b>). Congratulations to Haotian, Wuhao, Yanzhe. </font>
+  - *<font face="Times New Roman" size="3"> 2025.May 17 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper is accepted by Soft Robotics (<b>Soft Robotics </b>). Congratulations to Haotian, Wuhao, Yanzhe. </font> 
 
+  - *<font face="Times New Roman" size="3"> 2025.April 15 </font>*: &nbsp; <font face="Times New Roman" size="3" > My student Hao Wu  recieved an offer from University of Pennsylvania. </font>    Hao Wu 收到了美国宾夕法尼亚大学的Offer。
+  
  - *<font face="Times New Roman" size="3"> 2025.Jan 2 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper is accepted by IEEE Robotics and Automation Letters (<b>IEEE RA-L </b>). Congratulations to Baoying, Zhaohui, Weijie. </font>
 
  - *<font face="Times New Roman" size="3"> 2024.Dec 23 </font>*: &nbsp; <font face="Times New Roman" size="3" > After almost three-year period, one of our work is accepted by IEEE Transactions on Automation Science and Engineering (<b>IEEE T-ASE</b>). Congratulations to Jiadong. </font>
