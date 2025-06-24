@@ -36,9 +36,7 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
  - *<font face="Times New Roman" size="3"> 2025.June 6 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper is accepted by IEEE Robotics and Automation Letters (<b>IEEE RA-L </b>). Congratulations to Zhian, Yicheng, Haotian. </font>
 
-  - *<font face="Times New Roman" size="3"> 2025.May 31 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> Congratulations! This is truly outstanding news—please extend my warmest congratulations to my student Haotian who received the full P.h.D scholarship from King's College London(The Highest-Value Scholarship in the UK). </font>
-
-    - *<font face="Times New Roman" size="3"> 2025.May 31 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> Congratulations! This is truly outstanding news—please extend my warmest congratulations to my student Haotian who received the full P.h.D scholarship from King's College London(The Highest-Value Scholarship in the UK). </font>  Haotian在诸多竞争者中脱颖而出，拿到了英国国王大学（G5）的最高博士全额奖学金。
+  - *<font face="Times New Roman" size="3"> 2025.May 31 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> Congratulations! This is truly outstanding news—please extend my warmest congratulations to my student Haotian who received the full P.h.D scholarship from King's College London(The Highest-Value Scholarship in the UK). </font> Haotian在诸多竞争者中脱颖而出，拿到了英国国王大学（G5）的最高博士全额奖学金。
 
 
   - *<font face="Times New Roman" size="3"> 2025.May 17 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper is accepted by Soft Robotics (<b>Soft Robotics </b>). Congratulations to Haotian, Wuhao, Yanzhe. </font> 
@@ -49,8 +47,12 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
  - *<font face="Times New Roman" size="3"> 2024.Dec 23 </font>*: &nbsp; <font face="Times New Roman" size="3" > After almost three-year period, one of our work is accepted by IEEE Transactions on Automation Science and Engineering (<b>IEEE T-ASE</b>). Congratulations to Jiadong. </font>
 
- - *<font face="Times New Roman" size="3"> 2024.June 30 </font>*: &nbsp; <font face="Times New Roman" size="3" > Three papers on robotic perception and grasp are accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS 2024</b>). Congratulations to Jiadong, Jihao, Keqi, Haotian. </font>
+ - *<font face="Times New Roman" size="3"> 2024.June 30 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on robotic kitting is accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS 2024</b>). Congratulations to Jiadong. </font>
 
+ - *<font face="Times New Roman" size="3"> 2024.June 30 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on robotic modeling is accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS 2024</b>). Congratulations to Keqi, Haotian. </font>
+
+ - *<font face="Times New Roman" size="3"> 2024.June 30 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on robotic gripper is accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS 2024</b>). Congratulations to Jihao, Haotian. </font>
+ 
  - *<font face="Times New Roman" size="3"> 2024.May 14 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper is accepted by Robotics: Science and Systems (<b>RSS 2024</b>). Congratulations to Jihao and Keqi. </font>
  
 - *<font face="Times New Roman" size="3" > 2024.May 10 </font>*:  &nbsp; <font face="Times New Roman" size="3" > My students Yicheng  and Yanwen  recieved  offers from Imperial College and UC Berkeley, respectively.</font>  Yicheng 收到了英国帝国理工的Offer， Yanwen 收到了美国加州伯克利大学的Offer。
