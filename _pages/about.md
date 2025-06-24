@@ -22,7 +22,7 @@ redirect_from:
 
 # About Me 
 <font face="Times New Roman" size="3"> <p style='text-align: justify;'>
-From 2022, Huixu Dong is a “New Hundred-Talent Program” faculty (浙江大学新百人计划研究员/博导) in the Department of Mechanical Engineering at Zhejiang University, and the Director of Robotic Perception and Grasp Lab (RPGL) or Grasp Lab(GL) in short, and Dr.Dong obtained the title "Outstanding Overseas Youth"(国家高层次人才"海外优青"). I received the B.Sc degree in Mechatronics Engineering from Harbin Institute of Technology (HIT) in 2013 and obtained Ph.D. degree at Robotics Research Centre (RRC) of Nanyang Technological University (NTU) Singapore in 2018 advised by Prof.I-Ming Chen. Before joining Zhejiang University, I was a post-doctoral fellow of Robotics Institute (RI) at Carnegie Mellon University (CMU) and National University of Singapore (NUS). 
+From 2022, Huixu Dong is a “New Hundred-Talent Program” faculty (浙江大学新百人计划研究员/博导) in the Department of Mechanical Engineering at Zhejiang University, and the Director of Robotic Perception and Grasp Lab (RPGL) or Grasp Lab(GL) in short, and Dr.Dong obtained the title "Outstanding Overseas Youth"(国家高层次青年人才"海外优青"). I received the B.Sc degree in Mechatronics Engineering from Harbin Institute of Technology (HIT) in 2013 and obtained Ph.D. degree at Robotics Research Centre (RRC) of Nanyang Technological University (NTU) Singapore in 2018 advised by Prof.I-Ming Chen. Before joining Zhejiang University, I was a post-doctoral fellow of Robotics Institute (RI) at Carnegie Mellon University (CMU) and National University of Singapore (NUS). 
 </p></font>
 
 
