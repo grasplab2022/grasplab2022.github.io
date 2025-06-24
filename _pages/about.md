@@ -42,7 +42,7 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
     
   - *<font face="Times New Roman" size="3"> 2025.May 31 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> Congratulations! This is truly outstanding news—please extend my warmest congratulations to my students Yuwei and Xidan who have won second place in the Picking in Clutter track of the 10th Robotic Grasping and Manipulation Competition at ICRA 2025 in Atlanta, USA. </font> 恭喜我的学生Yuwei和Xidan获得了美国亚特兰大ICRA2025 第十届机器人抓取与操作大赛：机器人抓取赛道决赛的亚军。
 
-  - *<font face="Times New Roman" size="3"> 2025.May 31 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> Congratulations! This is truly outstanding news—please extend my warmest congratulations to my students Zhian and Weijie who have won second place in the Simulation-Sorting Manipulation track of the 10th Robotic Grasping and Manipulation Competition at ICRA 2025 in Atlanta, USA. </font> 恭喜我的学生Yuwei和Xidan获得了美国亚特兰大ICRA2025 第十届机器人抓取与操作大赛：机器人操作仿真赛道决赛的亚军。
+  - *<font face="Times New Roman" size="3"> 2025.May 31 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> Congratulations! This is truly outstanding news—please extend my warmest congratulations to my students Zhian and Weijie who have won second place in the Simulation-Sorting Manipulation track of the 10th Robotic Grasping and Manipulation Competition at ICRA 2025 in Atlanta, USA. </font> 恭喜我的学生Zhian和Weijie获得了美国亚特兰大ICRA2025 第十届机器人抓取与操作大赛：机器人操作仿真赛道决赛的亚军。
 
   - *<font face="Times New Roman" size="3"> 2025.May 17 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on robotic gripper is accepted by Soft Robotics (<b>Soft Robotics </b>). Congratulations to Haotian, Wuhao, Yanzhe. </font> 
 
