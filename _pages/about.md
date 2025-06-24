@@ -38,7 +38,7 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
   - *<font face="Times New Roman" size="3"> 2025.May 31 </font>*: &nbsp; <font face="Times New Roman" size="3" > My student Haotian recieved a full-scholarship P.h.D offer from King's College London with the highest . Congratulations to  Haotian. </font>
 
-  - *<font face="Times New Roman" size="3"> 2025.May 31 </font>*: &nbsp; <font face="Times New Roman" size="3",color="red" > Congratulations! This is truly outstanding news—please extend my warmest congratulations to my student Haotian who received the full P.h.D scholarship from King's College London(The Highest-Value Scholarship in the UK). </font>
+  - *<font face="Times New Roman" size="3"> 2025.May 31 </font>*: &nbsp; <font face="Times New Roman" size="3",color=red > Congratulations! This is truly outstanding news—please extend my warmest congratulations to my student Haotian who received the full P.h.D scholarship from King's College London(The Highest-Value Scholarship in the UK). </font>
 
 
 
