@@ -150,15 +150,7 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='../images/T-RO3.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-<p><font face="Times New Roman" size="3"> <b>Discretizing SO (2)-Equivariant Features for Robotic Kitting</b></font></p>  
-<p><font face="Times New Roman" size="3"> J. Zhou, Y. Zeng,  <b>H. Dong</b>, IM. Chen. </font></p> 
-<p><font face="Times New Roman" size="3"> <i>arXiv preprint arXiv:2403.13336</i>(<b>arXiv</b>), 2024.</font></p>      
-  
-</div>
-</div>
 
 
 
@@ -424,6 +416,17 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 <p><font face="Times New Roman" size="3"> <b>Construction of a Multiple-DOF Underactuated Gripper with Force-Sensing via Deep Learning</b></font></p> 
 <p><font face="Times New Roman" size="3"> Jihao Li, Keqi Zhu, Guodong Lu, I-Ming Chen, <b>H. Dong</b></font></p> 
 <p><font face="Times New Roman" size="3"> <i>Robotics: Science and Systems · A Robotics Conference</i>(<b>RSS</b>), 2024.</font></p>    
+  
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='../images/T-RO3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<p><font face="Times New Roman" size="3"> <b>Discretizing SO (2)-Equivariant Features for Robotic Kitting</b></font></p>  
+<p><font face="Times New Roman" size="3"> J. Zhou, Y. Zeng,  <b>H. Dong</b>, IM. Chen. </font></p> 
+<p><font face="Times New Roman" size="3"> <i>IEEE/RSJ International Conference on Intelligent Robots and Systems</i>(<b>IROS</b>), 2024.</font></p>   
   
 </div>
 </div>
