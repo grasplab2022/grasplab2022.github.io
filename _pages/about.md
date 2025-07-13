@@ -125,7 +125,7 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>Current work</b></div><img src='../images/equvariant learning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>Current work</b></div><img src='../images/eq_learning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>High-precision robotic assembling</b></font></p>  
