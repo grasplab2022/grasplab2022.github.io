@@ -154,15 +154,7 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='../images/T-mech3.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-<p><font face="Times New Roman" size="3"> <b>Under-actuated Robotic Gripper with Multiple Grasping Modes Inspired by Human Finger</b></font></p>  
-<p><font face="Times New Roman" size="3"> J Li, T Liao, H Nigatu, H Guo, G Lu, <b>H. Dong</b>.</font></p> 
-<p><font face="Times New Roman" size="3"> <i>arXiv preprint arXiv:2403.12502</i>(<b>arXiv</b>), 2024.</font></p>    
-  
-</div>
-</div>
 
 
 
@@ -431,6 +423,16 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='../images/T-mech3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<p><font face="Times New Roman" size="3"> <b>Under-actuated Robotic Gripper with Multiple Grasping Modes Inspired by Human Finger</b></font></p>  
+<p><font face="Times New Roman" size="3"> J Li, T Liao, H Nigatu, H Guo, G Lu, <b>H. Dong</b>.</font></p> 
+<p><font face="Times New Roman" size="3"> <i>IEEE/RSJ International Conference on Intelligent Robots and Systems</i>(<b>IROS</b>), 2024.</font></p>    
+  
+</div>
+</div>
 
 
 
