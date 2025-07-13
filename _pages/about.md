@@ -1,4 +1,4 @@
-<img width="2019" height="123" alt="image" src="https://github.com/user-attachments/assets/16b05ed5-f095-49a8-9540-ab3b48c5a97c" />---
+<img width="1421" height="123" alt="image" src="https://github.com/user-attachments/assets/08eeece9-f921-4f3e-b349-52fc507a98bf" /><img width="978" height="105" alt="image" src="https://github.com/user-attachments/assets/44037286-5b17-4bd8-9c63-4df890896f24" /><img width="2019" height="123" alt="image" src="https://github.com/user-attachments/assets/16b05ed5-f095-49a8-9540-ab3b48c5a97c" />---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
@@ -198,6 +198,61 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
 <p><font face="Times New Roman" size="3"> <b>From Failure to Feedback: Shaping Diffusion Policies with Failed Demonstrations</b></font></p>  
 <p><font face="Times New Roman" size="3"> Yicheng Ma, <b>H. Dong</b>. </font></p> 
+  
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>Current work</b></div><img src='../images/affordance.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<p><font face="Times New Roman" size="3"> <b> Manipulation base on Affordance and Pose</b></font></p>  
+<p><font face="Times New Roman" size="3"> Weijie Kong, <b>H. Dong</b>. </font></p> 
+  
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>Current work</b></div><img src='../images/coating.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<p><font face="Times New Roman" size="3"> <b> Robotic Visual Seal Coating </b></font></p>  
+<p><font face="Times New Roman" size="3"> Zhaohui Lin, <b>H. Dong</b>. </font></p> 
+  
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>Current work</b></div><img src='../images/3D tactile_sensor.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<p><font face="Times New Roman" size="3"> <b> Omni-sensing dexterous hand based on optical image </b></font></p>  
+<p><font face="Times New Roman" size="3"> Haotian Guo, Hao Wu, <b>H. Dong</b>. </font></p> 
+  
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>Current work</b></div><img src='../images/vision_tactile sensor.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<p><font face="Times New Roman" size="3"> <b> Vision-tactile sensor </b></font></p>  
+<p><font face="Times New Roman" size="3"> Yanzhe Wang,Haotian Guo, Hao Wu, <b>H. Dong</b>. </font></p> 
+  
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>Current work</b></div><img src='../images/assembling.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<p><font face="Times New Roman" size="3"> <b> Robot assembly manipulation via vision-tactile sensor </b></font></p>  
+<p><font face="Times New Roman" size="3"> Meixuan Ren, <b>H. Dong</b>. </font></p> 
   
 </div>
 </div>
