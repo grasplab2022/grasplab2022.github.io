@@ -93,12 +93,11 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
 ## *Journal papers* &nbsp;
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA2025: The 10th Robotic Grasping and Manipulation Competition</div><img src='../images/icra3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>ICRA2025: The 10th Robotic Grasping and Manipulation Competition</b></div><img src='../images/icra3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>In-Hand Manipulation track</b></font></p>  
 <p><font face="Times New Roman" size="3"> Xidan Zhang, Zhaohui Lin, H. Dong. </font></p> 
-
   
 </div>
 </div>
