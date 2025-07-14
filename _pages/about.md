@@ -1,5 +1,4 @@
-<img width="1421" height="123" alt="image" src="https://github.com/user-attachments/assets/08eeece9-f921-4f3e-b349-52fc507a98bf" /><img width="978" height="105" alt="image" src="https://github.com/user-attachments/assets/44037286-5b17-4bd8-9c63-4df890896f24" /><img width="2019" height="123" alt="image" src="https://github.com/user-attachments/assets/16b05ed5-f095-49a8-9540-ab3b48c5a97c" />---
-permalink: /
+
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
