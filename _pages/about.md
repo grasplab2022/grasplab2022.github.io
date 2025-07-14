@@ -204,14 +204,7 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>Current work</b></div><img src='../images/affordance.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-<p><font face="Times New Roman" size="3"> <b> Manipulation base on Affordance and Pose</b></font></p>  
-<p><font face="Times New Roman" size="3"> Weijie Kong, <b>H. Dong</b>. </font></p> 
-  
-</div>
-</div>
 
 
 
@@ -247,15 +240,6 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 </div>
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>Current work</b></div><img src='../images/assembling.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<p><font face="Times New Roman" size="3"> <b> Robot assembly manipulation via vision-tactile sensor </b></font></p>  
-<p><font face="Times New Roman" size="3"> Meixuan Ren, <b>H. Dong</b>. </font></p> 
-  
-</div>
-</div>
 
 
 
