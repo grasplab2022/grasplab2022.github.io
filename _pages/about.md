@@ -230,6 +230,30 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>Current work</b></div><img src='../images/hand1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<p><font face="Times New Roman" size="3"> <b>Robotic hand 1</b></font></p>  
+<p><font face="Times New Roman" size="3"> Wuhao, <b>H. Dong</b>. </font></p> 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>Current work</b></div><img src='../images/hand2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<p><font face="Times New Roman" size="3"> <b>Robotic hand 2</b></font></p>  
+<p><font face="Times New Roman" size="3"> Xin Ke, <b>H. Dong</b>. </font></p> 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>Current work</b></div><img src='../images/hand3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<p><font face="Times New Roman" size="3"> <b>Robotic hand 3</b></font></p>  
+<p><font face="Times New Roman" size="3"> Jihao Li, <b>H. Dong</b>. </font></p> 
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='../images/R-AL5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
