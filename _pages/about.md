@@ -265,6 +265,21 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>Current work</b></div><img src='../images/fin_ray.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<p><font face="Times New Roman" size="3"> <b> Optimization for Fin-ray gripper via co-rotational theory </b></font></p>  
+<p><font face="Times New Roman" size="3"> Haotian Guo, <b>H. Dong</b>. </font></p> 
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>RA-L</b></div><img src='../images/hydrid_gripper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<p><font face="Times New Roman" size="3"> <b> Logistc gripper  </b></font></p>  
+<p><font face="Times New Roman" size="3"> Haotian Guo, <b>H. Dong</b>. </font></p> 
+</div>
+</div>
 
 
 
