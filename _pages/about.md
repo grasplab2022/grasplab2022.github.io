@@ -94,7 +94,7 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>ICRA2025: The 10th Robotic Grasping and Manipulation Competition</b></div><img src='../images/icra1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>ICRA2025: The 10th RGM Competition</b></div><img src='../images/icra1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>Picking in Clutter track</b></font></p>  
@@ -104,7 +104,7 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>ICRA2025: The 10th Robotic Grasping and Manipulation Competition</b></div><img src='../images/icra2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>ICRA2025: The 10th RGM Competition</b></div><img src='../images/icra2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>Simulation-Sorting Manipulation track</b></font></p>  
