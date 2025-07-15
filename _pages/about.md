@@ -195,6 +195,15 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>Current work</b></div><img src='../images/feedback.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<p><font face="Times New Roman" size="3"> <b>Shape diffusion policies with failed demonstration</b></font></p>  
+<p><font face="Times New Roman" size="3"> Yicheng Ma, <b>H. Dong</b>. </font></p> 
+</div>
+</div>
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='../images/R-AL5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
