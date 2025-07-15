@@ -283,6 +283,37 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>RA-L</b></div><img src='../images/fruit_gripper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<p><font face="Times New Roman" size="3"> <b> Harvesting gripper </b></font></p>  
+<p><font face="Times New Roman" size="3"> Jianguo Wang, <b>H. Dong</b>. </font></p> 
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>RA-L</b></div><img src='../images/fruit_simulation.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<p><font face="Times New Roman" size="3"> <b> Collision-Margin-based fruit picking </b></font></p>  
+<p><font face="Times New Roman" size="3"> Zhaohui Lin, <b>H. Dong</b>. </font></p> 
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='../images/R-AL5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
