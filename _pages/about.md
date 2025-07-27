@@ -23,6 +23,8 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
 # News 
 
+ - *<font face="Times New Roman" size="3"> 2025.July 26 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on robotic manipulation is accepted by IEEE Robotics and Automation Letters (<b>IEEE T-MECH </b>). Congratulations to Zhaohui. </font>
+
  - *<font face="Times New Roman" size="3"> 2025.June 6 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on robotic gripper is accepted by IEEE Robotics and Automation Letters (<b>IEEE RA-L </b>). Congratulations to Zhian, Yicheng, Haotian. </font>
 
   - *<font face="Times New Roman" size="3"> 2025.May 31 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> Congratulations! This is truly outstanding news—please extend my warmest congratulations to my student Haotian who received the full P.h.D scholarship from King's College London(The Highest-Value Scholarship in the UK). </font> 恭喜我的学生Haotian在诸多竞争者中脱颖而出，拿到了英国国王大学（G5）的最高博士全额奖学金。
