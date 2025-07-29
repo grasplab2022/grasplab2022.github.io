@@ -131,7 +131,7 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>Current work</b></div><img src='../images/packing.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>IEEE RA-L</b></div><img src='../images/packing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p><font face="Times New Roman" size="3"> <b>Bin Packing Optimization via Deep Reinforcement Learning</b></font></p>  
@@ -172,7 +172,7 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>Current work</b></div><img src='../images/affordance.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>IEEE RA-L</b></div><img src='../images/affordance.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <p><font face="Times New Roman" size="3"> <b>Robot Manipulation via affordance and pose</b></font></p>  
 <p><font face="Times New Roman" size="3"> Weijie Kong, <b>H. Dong</b>. </font></p> 
@@ -181,7 +181,7 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>Current work</b></div><img src='../images/coating.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>IEEE T-MECH</b></div><img src='../images/coating.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <p><font face="Times New Roman" size="3"> <b>Robot visual seal coating</b></font></p>  
 <p><font face="Times New Roman" size="3"> Zhaohui Lin, <b>H. Dong</b>. </font></p> 
