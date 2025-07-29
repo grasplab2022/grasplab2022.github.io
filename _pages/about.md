@@ -23,7 +23,7 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
 # News 
 
- - *<font face="Times New Roman" size="3"> 2025.July 28 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on robotic perception is accepted by IEEE Robotics and Automation Letters (<b>IEEE T-MECH </b>). Congratulations to Weijie. </font>
+ - *<font face="Times New Roman" size="3"> 2025.July 28 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on robotic perception is accepted by IEEE Robotics and Automation Letters (<b>IEEE RA-L </b>). Congratulations to Weijie. </font>
 
  - *<font face="Times New Roman" size="3"> 2025.July 26 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on robotic manipulation is accepted by IEEE/ASME Transactions on Mechatronics (<b>IEEE T-MECH </b>). Congratulations to Zhaohui. </font>
 
