@@ -67,7 +67,7 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 - *<font face="Times New Roman" size="3" > 2023.Jun 1 </font>*:  &nbsp; <font face="Times New Roman" size="3" > In the 2023 "Jingdiao Cup" National University Graduation Design Competition, Ziyi won the individual gold medal (the only one nationwide), Keqi won the individual silver medal (ranked 2-9 nationwide) and also the Best Popularity Award, and Zhaohui won the first prize in the Eastern Region.</font>  2023年度“精雕杯”全国大学生本科毕业设计大赛中，Ziyi荣获个人金奖（全国唯一），Keqi荣获个人银奖（全国排名2-9）并且荣获最佳人气奖，Zhaohui荣获东区一等奖。
 
 - *<font face="Times New Roman" size="3" > 2023.April 10 </font>*:  &nbsp; <font face="Times New Roman" size="3" > My students Jiachun and Yangfei  recieved  offers from Carnegie Mellon University (CMU) and University of Illinois Urbana-Champaign(UIUC), respectively.</font>  恭喜我的学生Jiachun 收到了美国卡内基梅隆大学的Offer， Yangfei 收到了美国伊利诺伊香槟分校的Offer。
-- 
+  
  - *<font face="Times New Roman" size="3"> 2023.Feb 15 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on robotic perception for grasping is accepted by IEEE/ASME Transactions on Mechatronics (<b>IEEE T-MECH</b>). Congratulations to Jiadong. </font>
 
  - *<font face="Times New Roman" size="3"> 2022.Dec 2 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on robotic mechanism is accepted by Soft Robotics(<b>Soft Robotics</b>). Congratulations! </font>
