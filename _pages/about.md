@@ -22,7 +22,7 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
 
 # News 
- - *<font face="Times New Roman" size="3"> 2025.August 21 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on robotic gripper and tactle perception is accepted by  International Journal of Robotics Research (<b>IJRR </b>). Congratulations to Jihao, Keqi, Haotian. </font>
+ - *<font face="Times New Roman" size="3"> 2025.August 21 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on robotic gripper and tactle perception is accepted by  International Journal of Robotics Research (<b>IJRR</b>). Congratulations to Jihao, Keqi, Haotian. </font>
 
  - *<font face="Times New Roman" size="3"> 2025.August 6 </font>*: &nbsp; <font face="Times New Roman" size="3" > Our team recieved RGMC 2025 in-hand manipulation competition award prize (<b>IEEE ICRA 2025 </b>). Congratulations to Xidan, Zhaohui. </font>
 
