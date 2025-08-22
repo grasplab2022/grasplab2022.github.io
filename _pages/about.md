@@ -72,10 +72,9 @@ I am mainly on robotic perception and manipulation, including general-purpose gr
 
  - *<font face="Times New Roman" size="3"> 2022.Dec 2 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on robotic mechanism is accepted by Soft Robotics(<b>Soft Robotics</b>). Congratulations! </font>
 
-  - *<font face="Times New Roman" size="3"> 2022.Oct 20 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on robotic gripper is accepted by IEEE Robotics and Automation Letters (<b>IEEE RA-L </b>). Congratulations！ </font>
+ - *<font face="Times New Roman" size="3"> 2022.Oct 20 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on robotic gripper is accepted by IEEE Robotics and Automation Letters (<b>IEEE RA-L </b>). Congratulations！ </font>
 
  - *<font face="Times New Roman" size="3"> 2022.Step 30 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on robotic gripper is accepted by IEEE/ASME Transactions on Mechatronics (<b>IEEE T-MECH</b>). Congratulations to Yue Feng. </font>
-
 
  - *<font face="Times New Roman" size="3" > 2022.Jun 15 </font>*:  &nbsp; <font face="Times New Roman" size="3" > I have opened multiple fully-funded PostDoc, research associate (master's degree) and research officer (Bachelor's degree) positions in robotic perception and grasp.</font> <font color= red> 欢迎具有机械电子、计算机、数学，控制、电子、力学、材料、生物、物理，化学等背景的博士后，博士，硕士、做毕业设计的本科生，计划出国读书的本科生等加入机器人感知与抓取实验室, 感兴趣的同学请发邮件。</font>
    
