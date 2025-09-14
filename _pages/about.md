@@ -23,7 +23,7 @@ I am mainly on robotic perception and manipulation, including robotic hand, mult
 
 # News 
 
- - *<font face="Times New Roman" size="3"> 2025.September 11 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> A paper on robotic grasp is accepted by  the workshop "Benchmarking via Competitions in Robotic Grasping and Manipulation " at the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS 2025</b>).</font>  <font face="Times New Roman" size="3" > Congratulations to Xidan, Yuwei, Ziyi, Zhaohui. Xidan will give a talk.</font>
+ - *<font face="Times New Roman" size="3"> 2025.September 11 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> A paper on robotic grasp is accepted by  the <b>workshop</b> "Benchmarking via Competitions in Robotic Grasping and Manipulation " at the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS 2025</b>).</font>  <font face="Times New Roman" size="3" > Congratulations to Xidan, Yuwei, Ziyi, Zhaohui. <b>Xidan will give a talk</b>.</font>
 
  - *<font face="Times New Roman" size="3"> 2025.August 21 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> A paper on robotic gripper and tactle perception is accepted by  International Journal of Robotics Research (<b>IJRR</b>).</font>  <font face="Times New Roman" size="3" > Congratulations to Jihao, Keqi, Haotian.</font>
 
