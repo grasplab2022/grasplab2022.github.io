@@ -328,17 +328,17 @@ I am mainly on robotic perception and manipulation, including robotic hand, mult
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>IEEE/ASME T-MECH</b></div><img src='../images/book_gripper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>IEEE RAL</b></div><img src='../images/book_gripper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<p><font face="Times New Roman" size="3"> <b> The robot gripper for picking up books  </b></font></p>  
+<p><font face="Times New Roman" size="3"> Ziyi Zheng, <b>H. Dong</b>. </font></p> 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>IEEE/ASME T-MECH</b></div><img src='../images/logistic_gripper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <p><font face="Times New Roman" size="3"> <b> An In-hand Gripper with Mecanum Wheel: Design, Modeling and Characterization </b></font></p>  
-<p><font face="Times New Roman" size="3"> Ziyi Zheng, Keqi Zhu, <b>H. Dong</b>. </font></p> 
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>Current work</b></div><img src='../images/logistic_gripper.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<p><font face="Times New Roman" size="3"> <b> The robot gripper for picking up books </b></font></p>  
 <p><font face="Times New Roman" size="3"> Ziyi Zheng, Keqi Zhu, <b>H. Dong</b>. </font></p> 
 </div>
 </div>
