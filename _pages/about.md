@@ -304,10 +304,10 @@ I am mainly on robotic perception and manipulation, including robotic hand, mult
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>Current work</b></div><img src='../images/fruit_gripper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><b>RA-L</b></div><img src='../images/fruit_gripper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<p><font face="Times New Roman" size="3"> <b> Harvesting gripper </b></font></p>  
-<p><font face="Times New Roman" size="3"> Jianguo Wang, <b>H. Dong</b>. </font></p> 
+<p><font face="Times New Roman" size="3"> <b> Robotic Harvesting of Delicate Fruit: Design and Implementation of an Under-actuated Disturbance-Resistant Gripper </b></font></p>  
+<p><font face="Times New Roman" size="3"> Jianguo Wang,Jihao Li, <b>H. Dong</b>. </font></p> 
 </div>
 </div>
 
