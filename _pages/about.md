@@ -23,7 +23,7 @@ I am mainly on robotic perception and manipulation, including robotic hand, mult
 
 # News 
 
- - *<font face="Times New Roman" size="3"> 2025.October 5 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> A paper on robotic gripper is accepted by IEEE Robotics and Automation Letters (<b>IEEE R-AL </b>).</font> <font face="Times New Roman" size="3" > Congratulations to Jianguo and Jihao. </font>
+ - *<font face="Times New Roman" size="3"> 2025.October 21 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> A paper on robotic gripper is accepted by IEEE Robotics and Automation Letters (<b>IEEE R-AL </b>).</font> <font face="Times New Roman" size="3" > Congratulations to Jianguo and Jihao. </font>
 
  - *<font face="Times New Roman" size="3"> 2025.October 5 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> A paper on robotic hand is accepted by IEEE/ASME Transactions on Mechatronics (<b>IEEE/ASME T-MECH </b>).</font> <font face="Times New Roman" size="3" > Congratulations to Ziyi and Keqi. </font>
  
