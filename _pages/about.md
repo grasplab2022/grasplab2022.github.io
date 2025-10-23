@@ -25,6 +25,8 @@ I am mainly on robotic perception and manipulation, including robotic hand, mult
 
  - *<font face="Times New Roman" size="3"> 2025.October 21 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> A paper on robotic gripper is accepted by IEEE Robotics and Automation Letters (<b>IEEE R-AL </b>).</font> <font face="Times New Roman" size="3" > Congratulations to Jianguo and Jihao. </font>
 
+  - *<font face="Times New Roman" size="3"> 2025.October 9 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> My student Baoying received 2025 National Scholarship  (<b>National Scholarship</b>).</font> <font face="Times New Roman" size="3" > Congratulations to Baoying. </font>
+
  - *<font face="Times New Roman" size="3"> 2025.October 5 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on robotic hand is accepted by IEEE/ASME Transactions on Mechatronics (<b>IEEE/ASME T-MECH </b>).</font> <font face="Times New Roman" size="3" > Congratulations to Ziyi and Keqi. </font>
  
  - *<font face="Times New Roman" size="3"> 2025.September 11 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on robotic grasp is accepted by  the <b>workshop</b> "Benchmarking via Competitions in Robotic Grasping and Manipulation " at the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS 2025</b>).</font>  <font face="Times New Roman" size="3" > Congratulations to Xidan, Yuwei, Ziyi, Zhaohui. <b>Xidan will give a talk</b>.</font>
