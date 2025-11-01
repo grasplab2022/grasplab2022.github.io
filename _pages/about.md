@@ -22,6 +22,8 @@ I am mainly on robotic perception and manipulation, including robotic hand, mult
 
 
 # News 
+ - *<font face="Times New Roman" size="3"> 2025.October 21 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> A paper on robotic multimode perception is accepted by Nature Communications (<b> NC </b>).</font> <font face="Times New Roman" size="3" > Congratulations to Yanzhe, Haotian, Hao Wu. </font>
+
 
  - *<font face="Times New Roman" size="3"> 2025.October 21 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> A paper on robotic gripper is accepted by IEEE Robotics and Automation Letters (<b>IEEE R-AL </b>).</font> <font face="Times New Roman" size="3" > Congratulations to Jianguo and Jihao. </font>
 
