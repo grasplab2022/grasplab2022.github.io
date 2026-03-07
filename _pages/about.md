@@ -33,12 +33,11 @@ I am mainly on robotic perception and manipulation, including robotic hand, mult
   
   - *<font face="Times New Roman" size="3"> 2025.Nov 15 </font>*: &nbsp; <font face="Times New Roman" size="3"> My student Xin Ke recieved an offer from Zhiyuan Innovation (Shanghai) Technology Co., Ltd. </font> 恭喜我的学生Xin Ke收到了上海智元机器人公司的工作offer。
      
- - *<font face="Times New Roman" size="3"> 2025.November 10 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> A paper on robotic gripper is accepted by IEEE Transactions on Robotics (<b>IEEE T-RO</b>).</font> <font face="Times New Roman" size="3" > Congratulations to Haotian, Ziyi. </font>
+ - *<font face="Times New Roman" size="3"> 2025.November 10 </font>*: &nbsp; <font face="Times New Roman" size="3"> A paper on robotic gripper is accepted by IEEE Transactions on Robotics (<b>IEEE T-RO</b>).</font> <font face="Times New Roman" size="3" > Congratulations to Haotian, Ziyi. </font>
     
  - *<font face="Times New Roman" size="3"> 2025.October 31 </font>*: &nbsp; <font face="Times New Roman" size="3"> A paper on robotic manipulation is accepted by IEEE Transactions on Automation Science and Engineering (<b>IEEE T-ASE</b>).</font> <font face="Times New Roman" size="3" > Congratulations to Yanzhe. </font>
 
  - *<font face="Times New Roman" size="3"> 2025.October 31 </font>*: &nbsp; <font face="Times New Roman" size="3"> A paper on robotic multimode perception for robotic manipulation is accepted by Nature Communications (<b>NC</b>).</font> <font face="Times New Roman" size="3" > Congratulations to Yanzhe, Haotian, Hao Wu. </font>
-
 
  - *<font face="Times New Roman" size="3"> 2025.October 21 </font>*: &nbsp; <font face="Times New Roman" size="3"> A paper on robotic gripper is accepted by IEEE Robotics and Automation Letters (<b>IEEE R-AL </b>).</font> <font face="Times New Roman" size="3" > Congratulations to Jianguo and Jihao. </font>
 
