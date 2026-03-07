@@ -23,11 +23,11 @@ I am mainly on robotic perception and manipulation, including robotic hand, mult
 
 # News 
 
- - *<font face="Times New Roman" size="3"> 2026.March 5 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> My student Jianguo received a travel grant for ICRA2026 from IEEE Robotics&Automation Society.</font>  Congratulations to Haotian, Ziyi。
+ - *<font face="Times New Roman" size="3"> 2026.March 5 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> My student Jianguo received a travel grant for ICRA 2026 from IEEE Robotics&Automation Society.</font>  Congratulations to Jianguo。
  
  - *<font face="Times New Roman" size="3"> 2026.February 5 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> A paper on robotic gripper is accepted by IEEE Transactions on Automation Science and Engineering (<b>IEEE T-ASE</b>).</font> <font face="Times New Roman" size="3" > Congratulations to Haotian, Ziyi. </font>
 
-   - *<font face="Times New Roman" size="3"> 2025.Nov 15 </font>*: &nbsp; <font face="Times New Roman" size="3"> My student Zhian recieved an intern offer from Alibaba Group. </font> 恭喜我的学生Zhian收到了阿里巴巴达摩院实习offer。
+ - *<font face="Times New Roman" size="3"> 2025.Nov 15 </font>*: &nbsp; <font face="Times New Roman" size="3"> My student Zhian recieved an intern offer from Alibaba Group. </font> 恭喜我的学生Zhian收到了阿里巴巴达摩院实习offer。
      
   - *<font face="Times New Roman" size="3"> 2025.Nov 15 </font>*: &nbsp; <font face="Times New Roman" size="3"> My student Haonan recieved an offer from Ant Group Co., Ltd. </font> 恭喜我的学生Haonan收到了蚂蚁集团的工作offer。
   
