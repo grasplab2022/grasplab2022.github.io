@@ -65,7 +65,9 @@ I am mainly on robotic perception and manipulation, including robotic hand, mult
   - *<font face="Times New Roman" size="3"> 2025.May 17 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on robotic gripper is accepted by Soft Robotics (<b>Soft Robotics </b>). Congratulations to Haotian, Wuhao, Yanzhe. </font> 
 
   - *<font face="Times New Roman" size="3"> 2025.April 15 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> My student Hao Wu recieved an offer from University of Pennsylvania. </font> 恭喜我的学生Hao Wu 收到了美国宾夕法尼亚大学的Offer。
-  
+
+  - *<font face="Times New Roman" size="3"> 2025.Feb 15 </font>*: &nbsp; <font face="Times New Roman" size="3"> My student Zhaohui and Weijie recieved intern offers from Shanghai AI Lab. </font> 恭喜我的学生Zhaohui 和Weijie收到了上海AI Lab 实习Offer。
+  -   
  - *<font face="Times New Roman" size="3"> 2025.Jan 2 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on robotic packaging is accepted by IEEE Robotics and Automation Letters (<b>IEEE RA-L </b>). Congratulations to Baoying, Zhaohui, Weijie. </font>
 
  - *<font face="Times New Roman" size="3"> 2024.Dec 23 </font>*: &nbsp; <font face="Times New Roman" size="3" > After almost three-year period, one of our work on robotic grasping is accepted by IEEE Transactions on Automation Science and Engineering (<b>IEEE T-ASE</b>). Congratulations to Jiadong. </font>
