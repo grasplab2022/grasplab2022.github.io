@@ -25,7 +25,8 @@ I am mainly on robotic perception and manipulation, including robotic hand, mult
 
  - *<font face="Times New Roman" size="3"> 2026.March 5 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> My student Jianguo received a travel grant for ICRA 2026 from IEEE Robotics&Automation Society.</font> <font face="Times New Roman" size="3" > Congratulations to Jianguo. </font>
 
- 
+ - *<font face="Times New Roman" size="3"> 2026.February 14 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> My student Weijie recieved a full PhD scholarship from Hongkong University.</font>  恭喜我的学生Weijie收到了香港大学博士全额奖学金offer。
+
  - *<font face="Times New Roman" size="3"> 2026.February 5 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> A paper on robotic gripper is accepted by IEEE Transactions on Automation Science and Engineering (<b>IEEE T-ASE</b>).</font> <font face="Times New Roman" size="3" > Congratulations to Haotian, Ziyi. </font>
 
  - *<font face="Times New Roman" size="3"> 2025.Nov 15 </font>*: &nbsp; <font face="Times New Roman" size="3"> My student Zhian recieved an intern offer from Alibaba Group. </font> 恭喜我的学生Zhian收到了阿里巴巴达摩院实习offer。
