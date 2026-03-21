@@ -61,7 +61,7 @@ I am mainly on robotic perception and manipulation, including robotic hand, mult
 
  - *<font face="Times New Roman" size="3"> 2025.June 6 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on robotic gripper is accepted by IEEE Robotics and Automation Letters (<b>IEEE RA-L </b>). Congratulations to Zhian, Yicheng, Haotian. </font>
 
-  - *<font face="Times New Roman" size="3"> 2025.May 31 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> Congratulations! This is truly outstanding news—please extend my warmest congratulations to my student Haotian who received the full P.h.D scholarship from King's College London(The Highest-Value Scholarship in the UK). </font> 恭喜我的学生Haotian在诸多竞争者中脱颖而出，拿到了英国国王大学（G5）的最高博士全额奖学金。
+  - *<font face="Times New Roman" size="3"> 2025.May 31 </font>*: &nbsp; <font face="Times New Roman" size="3"> Congratulations! This is truly outstanding news—please extend my warmest congratulations to my student Haotian who received the full P.h.D scholarship from King's College London(The Highest-Value Scholarship in the UK). </font> 恭喜我的学生Haotian在诸多竞争者中脱颖而出，拿到了英国国王大学（G5）的最高博士全额奖学金。
 
   - *<font face="Times New Roman" size="3"> 2025.May 31 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> Congratulations! This is truly outstanding news—please extend my warmest congratulations to my students Xidan and Zhaohui who have won the championship in the In-Hand Manipulation track of the 10th Robotic Grasping and Manipulation Competition at ICRA 2025 in Atlanta, USA. </font> 我的学生Xidan 和Zhaohui 获得了美国亚特兰大ICRA2025 第十届机器人抓取与操作大赛：灵巧手内操作赛道决赛的冠军。
     
@@ -73,7 +73,7 @@ I am mainly on robotic perception and manipulation, including robotic hand, mult
  
   - *<font face="Times New Roman" size="3"> 2025.May 17 </font>*: &nbsp; <font face="Times New Roman" size="3" > A paper on robotic gripper is accepted by Soft Robotics (<b>Soft Robotics </b>). Congratulations to Haotian, Wuhao, Yanzhe. </font> 
 
-  - *<font face="Times New Roman" size="3"> 2025.April 15 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> My student Hao Wu recieved an offer from University of Pennsylvania. </font> 恭喜我的学生Hao Wu 收到了美国宾夕法尼亚大学的Offer。
+  - *<font face="Times New Roman" size="3"> 2025.April 15 </font>*: &nbsp; <font face="Times New Roman" size="3"> My student Hao Wu recieved an offer from University of Pennsylvania. </font> 恭喜我的学生Hao Wu 收到了美国宾夕法尼亚大学的Offer。
 
   - *<font face="Times New Roman" size="3"> 2025.Feb 15 </font>*: &nbsp; <font face="Times New Roman" size="3"> My student Zhaohui and Weijie recieved intern offers from Shanghai AI Lab. </font> 恭喜我的学生Zhaohui 和Weijie收到了上海AI Lab 实习Offer。
     
