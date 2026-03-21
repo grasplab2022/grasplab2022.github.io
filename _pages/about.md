@@ -23,6 +23,9 @@ I am mainly on robotic perception and manipulation, including robotic hand, mult
 
 # News 
 
+ - *<font face="Times New Roman" size="3"> 2026.March 7 </font>*: &nbsp; <font face="Times New Roman" size="3"> A paper on robotic manipulation via RL is accepted by IEEE Transactions on Automation Science and Engineering (<b>IEEE T-ASE</b>).</font> <font face="Times New Roman" size="3" > Congratulations to Baoying. </font>
+
+ 
  - *<font face="Times New Roman" size="3"> 2026.March 5 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> My student Jianguo received a travel grant for ICRA 2026 from IEEE Robotics&Automation Society.</font> <font face="Times New Roman" size="3" > Congratulations to Jianguo. </font>
 
  - *<font face="Times New Roman" size="3"> 2026.February 14 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> My student Weijie recieved a full PhD scholarship from Hongkong University.</font>  恭喜我的学生Weijie收到了香港大学博士全额奖学金offer。
