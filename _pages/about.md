@@ -23,7 +23,7 @@ I am mainly on robotic perception and manipulation, including robotic hand, mult
 
 # News 
 
- - *<font face="Times New Roman" size="3"> 2026.April 27 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> Wow, three papers from Grasp Lab are accepted by Robotics: Science and Systems(RSS 2026). A paper titled SID: Sliding into Distribution for Robust Few-Demonstration Manipulationrobotic manipulation  is accepted by Robotics: Science and Systems (<b>RSS 2026</b>).</font> <font face="Times New Roman" size="3" > Congratulations to Yicheng. </font>
+ - *<font face="Times New Roman" size="3"> 2026.April 27 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> Wow, three papers from Grasp Lab are accepted by Robotics: Science and Systems(RSS 2026). A paper titled SID: Sliding into Distribution for Robust Few-Demonstration Manipulation is accepted by Robotics: Science and Systems (<b>RSS 2026</b>).</font> <font face="Times New Roman" size="3" > Congratulations to Yicheng. </font>
 
 
  - *<font face="Times New Roman" size="3"> 2026.April 27 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> A paper titled Relaxation-Aware Multimodal Sensing of Soft Gripper Driven by Structure-Perception-Learning is accepted by Robotics: Science and Systems (<b>RSS 2026</b>).</font> <font face="Times New Roman" size="3" > Congratulations to Yanzhe. </font>
