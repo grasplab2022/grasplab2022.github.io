@@ -23,7 +23,7 @@ I am mainly on robotic perception and manipulation, including robotic hand, mult
 
 # News 
 
- - *<font face="Times New Roman" size="3"> 2026.May 15 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> My student Hao Wu recieved three full-scholarship PhD offers from Nanyang Technological University, National University of Singapore and HongKong University.</font> <font face="Times New Roman" size="3" > Congratulations to Hao Wu. </font>
+ - *<font face="Times New Roman" size="3"> 2026.May 15 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> My student Hao Wu recieved three full-scholarship PhD offers from Nanyang Technological University, National University of Singapore and HongKong University.Congratulations to Hao Wu. </font> <font face="Times New Roman" size="3" > </font>
 
  - *<font face="Times New Roman" size="3"> 2026.April 27 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> Wow, three papers from Grasp Lab are accepted by Robotics: Science and Systems(RSS 2026). A paper titled SID: Sliding into Distribution for Robust Few-Demonstration Manipulation is accepted by Robotics: Science and Systems (<b>RSS 2026</b>).</font> <font face="Times New Roman" size="3" > Congratulations to Yicheng. </font>
 
