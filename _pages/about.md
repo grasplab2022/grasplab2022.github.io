@@ -23,9 +23,9 @@ I am mainly on robotic perception and manipulation, including robotic hand, mult
 
 # News 
 
-  - *<font face="Times New Roman" size="3"> 2026.June 13 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> I am delighted to have passed the selection process of the T-RO Editorial Board and been appointed as an Associate Editor. So happy to make some contributions to IEEE Transactions on Robotics. I will serve as an Associate Editor of IEEE Transactions on Robotics(T-RO) from July 1st,2026. </font> 
+  - *<font face="Times New Roman" size="3"> 2026.June 13 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> I am delighted to be appointed as an Associate Editor. So happy to make some contributions to IEEE Transactions on Robotics. I will serve as an Associate Editor of IEEE Transactions on Robotics(T-RO) from July 1st,2026. </font> 
 
-  - *<font face="Times New Roman" size="3"> 2026.June 4 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> Congratulations! This is truly outstanding news—please extend my warmest congratulations to my students Xidan and Jianguo who have won second place in the Picking in Clutter track of the 11th Robotic Grasping and Manipulation Competition at ICRA 2026 in Vienna, Austria. </font> 恭喜我的学生Xidan和Jianguo获得了美国亚特兰大ICRA2025 第十一届机器人抓取大赛：机器人抓取赛道决赛的亚军。
+  - *<font face="Times New Roman" size="3"> 2026.June 4 </font>*: &nbsp; <font face="Times New Roman" size="3" > Congratulations! This is truly outstanding news—please extend my warmest congratulations to my students Xidan and Jianguo who have won second place in the Picking in Clutter track of the 11th Robotic Grasping and Manipulation Competition at ICRA 2026 in Vienna, Austria. </font> 恭喜我的学生Xidan和Jianguo获得了美国亚特兰大ICRA2025 第十一届机器人抓取大赛：机器人抓取赛道决赛的亚军。
     
  - *<font face="Times New Roman" size="3"> 2026.May 15 </font>*: &nbsp; <font face="Times New Roman" size="3" color= red> My student Hao Wu recieved three full-scholarship PhD offers from Nanyang Technological University, National University of Singapore and HongKong University.Congratulations to Hao Wu.</font> <font face="Times New Roman" size="3" > </font>恭喜我的学生Wu Hao收到了新加坡南洋理工大学、新加坡国立大学与香港大学的全奖博士offer.
 
